@@ -15,7 +15,7 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 - Product Owner: José Henrique da Costa Resende
 - Equipe de Desenvolvimento: Germanio Laudiene Diniz Corrêa, Joaquim Lopes de Sousa Neto, José Henrique da Costa Resende ,Kelveng Carlisson Petuba Magalhães,
   Lidia Viana Goulart De Almeida, Phelipe Rodrigues Gomes.
-- Equipe de Design: Phelipe Rodrigues Gomes, Lidia Almeida Joaquim Lopes de Sousa Neto.
+- Equipe de Design: Phelipe Rodrigues Gomes, Lidia Almeida, Joaquim Lopes de Sousa Neto.
 
 
 
