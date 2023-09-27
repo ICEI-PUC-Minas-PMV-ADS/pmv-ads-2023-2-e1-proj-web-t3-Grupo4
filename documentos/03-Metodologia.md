@@ -37,6 +37,12 @@ Phelipe Rodrigues Gomes.<br>
 - Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
 - Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
+- Etapa 1 (Sprint 1):
+1.1 Planejamento:
+
+Nossas reuniões semanais servirão como o espaço onde todos poderão compartilhar suas ideias, discutir estratégias e definir o caminho a seguir. Cada membro do grupo terá a oportunidade de contribuir com sua experiência e opiniões, promovendo um ambiente de colaboração genuína. Durante essas reuniões, também estabeleceremos metas, atribuiremos tarefas e monitoraremos o progresso do projeto, além disso, essas reuniões semanais nos permite manter um cronograma claro e uma visão compartilhada do projeto, com a orientação da professora garantindo que estejamos no caminho certo e aderindo às melhores práticas.
+No entanto, nosso compromisso com reuniões regulares não se limita apenas à produtividade. Elas também servem para fortalecer os laços entre os membros da equipe, criando um ambiente onde todos se sintam valorizados e ouvidos. Afinal, o sucesso de um projeto não se resume apenas ao resultado final, mas à jornada que percorremos juntos.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/144849420/72ba9715-38dc-4aab-bf31-9fd9437ffbf3)
 
 
