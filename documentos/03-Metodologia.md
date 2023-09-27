@@ -12,7 +12,7 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 ### Divisão de Papéis
 
 A equipe está organizada da seguinte forma:
-
+<ul>
 **<p>-Scrum Master:<br>**
 Phelipe Rodrigues Gomes.<br>
 **-Product Owner.<br>**
@@ -28,7 +28,7 @@ Phelipe Rodrigues Gomes<br>
 Joaquim Lopes de Sousa Neto<br>
 Lidia Almeida.<br>
 Phelipe Rodrigues Gomes.<br>
-
+</ul>
 
 ### Processo
 
