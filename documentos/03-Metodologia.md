@@ -69,7 +69,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Repositório de código fonte         | GitHub                             |[ GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/tree/main/codigo-fonte).                            |
 | Documentos do projeto               | GitHub                             |  [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/tree/main/documentos)                            |
 | Projeto de Interface                | Figma                              | [ Figma ](https://www.figma.com/file/T5DUqcoslGz1TNBOFIvgc7/CJI---Grupo-4?type=design&node-id=17-49&mode=design&t=VqBdZC3baGU9hkf2-0)     |
-| Gerenciamento do Projeto            | GitHub Projects                    | [Treloo ]([https://duckduckgo.com](https://trello.com/b/OW4u73MF/kanban-quadro-modelo)                          |
+| Gerenciamento do Projeto            | GitHub Projects                    | [Trello](https://trello.com/b/OW4u73MF/kanban-quadro-modelo)                          |
 | Hospedagem                          | GitHub Pages                       | [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/edit/main/documentos/03-Metodologia.md)                          |
 
 
