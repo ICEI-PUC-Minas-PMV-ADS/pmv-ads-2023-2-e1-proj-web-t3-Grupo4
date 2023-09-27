@@ -15,19 +15,19 @@ A equipe está organizada da seguinte forma:
 
 <p>Scrum Master:<br>
 Phelipe Rodrigues Gomes.</p>
-Product Owner:
-José Henrique da Costa Resende
-Equipe de Desenvolvimento:
-Germanio Laudiene Diniz Corrêa
-Joaquim Lopes de Sousa Neto
-José Henrique da Costa Resende
-Kelveng Carlisson Petuba Magalhães
-Lidia Viana Goulart De Almeida
-Phelipe Rodrigues Gomes.
-Equipe de Design:
-Joaquim Lopes de Sousa Neto
-Lidia Almeida
-Phelipe Rodrigues Gomes
+Product Owner.</p>:
+José Henrique da Costa Resende.</p>
+Equipe de Desenvolvimento:.</p>
+Germanio Laudiene Diniz Corrêa.</p>
+Joaquim Lopes de Sousa Neto.</p>
+José Henrique da Costa Resende.</p>
+Kelveng Carlisson Petuba Magalhães.</p>
+Lidia Viana Goulart De Almeida.</p>
+Phelipe Rodrigues Gomes..</p>.</p>
+Equipe de Design:.</p>
+Joaquim Lopes de Sousa Neto.</p>
+Lidia Almeida.</p>
+Phelipe Rodrigues Gomes.</p>
 
 
 ### Processo
