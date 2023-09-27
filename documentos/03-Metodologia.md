@@ -67,7 +67,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             |[ http://...](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/tree/main/codigo-fonte).                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
+| Documentos do projeto               | GitHub                             |  [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/tree/main/documentos)                            |
 | Projeto de Interface                | Figma                              | http://....                            |
 | Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
