@@ -13,7 +13,7 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 A equipe está organizada da seguinte forma:
 
-<p>Scrum Master:<br>
+<h6><p>Scrum Master:<br><h6>
 Phelipe Rodrigues Gomes.<br>
 Product Owner.<br>
 José Henrique da Costa Resende.<br>
