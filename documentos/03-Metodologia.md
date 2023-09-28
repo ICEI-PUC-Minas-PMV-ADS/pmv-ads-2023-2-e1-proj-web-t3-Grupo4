@@ -36,14 +36,20 @@ Phelipe Rodrigues Gomes.<br>
 
   **1.1 Planejamento:**
 
->Nossas reuniões semanais servirão como o espaço onde todos poderão compartilhar suas ideias, discutir estratégias e definir o caminho a seguir. Cada membro do grupo terá a oportunidade de contribuir com sua experiência e opiniões, promovendo um ambiente de colaboração genuína. Durante essas reuniões, também estabeleceremos metas, atribuiremos tarefas e monitoraremos o progresso do projeto, além disso, essas reuniões semanais nos permite manter um cronograma claro e uma visão compartilhada do projeto, com a orientação da professora garantindo que estejamos no caminho certo e aderindo às melhores práticas.
+Nossas reuniões semanais servirão como o espaço onde todos poderão compartilhar suas ideias, discutir estratégias e definir o caminho a seguir. Cada membro do grupo terá a oportunidade de contribuir com sua experiência e opiniões, promovendo um ambiente de colaboração genuína. Durante essas reuniões, também estabeleceremos metas, atribuiremos tarefas e monitoraremos o progresso do projeto, além disso, essas reuniões semanais nos permite manter um cronograma claro e uma visão compartilhada do projeto, com a orientação da professora garantindo que estejamos no caminho certo e aderindo às melhores práticas.
 No entanto, nosso compromisso com reuniões regulares não se limita apenas à produtividade. Elas também servem para fortalecer os laços entre os membros da equipe, criando um ambiente onde todos se sintam valorizados e ouvidos. Afinal, o sucesso de um projeto não se resume apenas ao resultado final, mas à jornada que percorremos juntos.
->
-- Backlog: Recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
-- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
-- Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-- Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
->
+
+  **Etapa 2 (Sprint 2):**
+
+
+<em>A criação da metodologia foi um processo colaborativo, cada membro do grupo contribuiu com suas ideias, perspectivas e experiências, resultando em uma abordagem abrangente e eficaz para o usuário garantindo que fosse sólida e adaptável às necessidades em constante evolução do projeto.
+
+A organização do grupo com base no Trello oferece uma abordagem prática e colaborativa para gerenciar projetos e tarefas. Com sua interface intuitiva e recursos flexíveis, o Trello ajuda a equipe a manterem-se organizadas, a otimizar a comunicação e a alcançar os seus objetivos de forma eficaz.
+
+Começamos a trabalhar em nosso projeto inicial de interface. Essa parte do processo foi igualmente emocionante, pois começamos a transformar conceitos abstratos em algo tangível e funcional. Cada detalhe da interface foi cuidadosamente projetado com base em nossa metodologia, para garantir que atendesse às expectativas do projeto e às necessidades do usuário tendo a ideia de ser manuseado instintivamente</em>..
+
+**Etapa 2 (Evidência:):**
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/144849420/72ba9715-38dc-4aab-bf31-9fd9437ffbf3)
 
 
