@@ -54,7 +54,8 @@ Começamos a trabalhar em nosso projeto inicial de interface. Essa parte do proc
 
 **Etapa 2 (Evidência:):**
 
-https://www.figma.com/file/T5DUqcoslGz1TNBOFIvgc7/CJI---Grupo-4?type=design&node-id=17-49&mode=design&t=8GAtEVvYhQx24YXq-0 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/144849420/26078a31-5254-4df3-a40e-de5313f67609)
+
 
 
 
