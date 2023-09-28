@@ -52,6 +52,10 @@ Começamos a trabalhar em nosso projeto inicial de interface. Essa parte do proc
 [
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/144849420/72ba9715-38dc-4aab-bf31-9fd9437ffbf3)](https://trello.com/b/OW4u73MF/kanban-quadro-modelo)
 
+**Etapa 2 (Evidência:):**
+
+https://www.figma.com/file/T5DUqcoslGz1TNBOFIvgc7/CJI---Grupo-4?type=design&node-id=17-49&mode=design&t=8GAtEVvYhQx24YXq-0 
+
 
 
 ### Etiquetas
