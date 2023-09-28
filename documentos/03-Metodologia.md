@@ -46,7 +46,7 @@ No entanto, nosso compromisso com reuniões regulares não se limita apenas à p
 
 A organização do grupo com base no Trello oferece uma abordagem prática e colaborativa para gerenciar projetos e tarefas. Com sua interface intuitiva e recursos flexíveis, o Trello ajuda a equipe a manterem-se organizadas, a otimizar a comunicação e a alcançar os seus objetivos de forma eficaz.
 
-Começamos a trabalhar em nosso projeto inicial de interface. Essa parte do processo foi igualmente emocionante, pois começamos a transformar conceitos abstratos em algo tangível e funcional. Cada detalhe da interface foi cuidadosamente projetado com base em nossa metodologia, para garantir que atendesse às expectativas do projeto e às necessidades do usuário tendo a ideia de ser manuseado instintivamente</em>..
+Começamos a trabalhar em nosso projeto inicial de interface. Essa parte do processo foi igualmente emocionante, pois começamos a transformar conceitos abstratos em algo tangível e funcional. Cada detalhe da interface foi cuidadosamente projetado com base em nossa metodologia, para garantir que atendesse às expectativas do projeto e às necessidades do usuário tendo a ideia de ser manuseado instintivamente</em>.
 
 **Etapa 2 (Evidência:):**
 [
