@@ -33,7 +33,7 @@ Phelipe Rodrigues Gomes.<br>
 ### Processo
 
 >-**Etapa 1 (Sprint 1):**
->- >
+
   **1.1 Planejamento:**
 
 Nossas reuniões semanais servirão como o espaço onde todos poderão compartilhar suas ideias, discutir estratégias e definir o caminho a seguir. Cada membro do grupo terá a oportunidade de contribuir com sua experiência e opiniões, promovendo um ambiente de colaboração genuína. Durante essas reuniões, também estabeleceremos metas, atribuiremos tarefas e monitoraremos o progresso do projeto, além disso, essas reuniões semanais nos permite manter um cronograma claro e uma visão compartilhada do projeto, com a orientação da professora garantindo que estejamos no caminho certo e aderindo às melhores práticas.
