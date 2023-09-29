@@ -39,15 +39,15 @@ Nossas reuniões semanais servirão como o espaço onde todos poderão compartil
 
 **Os entregáveis dessa etapa são:** 
 
-**1.** Histórias de usuários 
+**1.** Histórias de usuários<br> 
 
-**2.** Cenários de testes 
+**2.** Cenários de testes<br> 
 
-**3.** Wireframe 
+**3.** Wireframe<br> 
 
-**4.** Refinamento e priorização das tarefas 
+**4.** Refinamento e priorização das tarefas<br> 
 
-**5.** Arquitetura de Solução 
+**5.** Arquitetura de Solução<br> 
 
 
 **2. Desenvolvimento**
@@ -65,9 +65,9 @@ Começamos a trabalhar em nosso projeto inicial de interface. Essa parte do proc
 **No Trello será utilizado o quadro Kanban com as seguintes atribuições:** 
 
  
-**1**.Sprint atual – Numeral 
-**2**Prioridade - (1,2,3) sendo 1 de maior prioridade e 3 menores prioridade  
-**3**Etiqueta - Tipo da tarefa, pode ser Desenvolvimento, Documentação , Gerência de Projetos, Infraestrutura, Testes. 
+**1**.Sprint atual – Numeral<br> 
+**2**Prioridade - (1,2,3) sendo 1 de maior prioridade e 3 menores prioridade<br>  
+**3**Etiqueta - Tipo da tarefa, Desenvolvimento, Documentação, Gerência de Projetos, Infraestrutura, Testes.<br> 
 
 **3.1 Fluxo kanban** 
 
