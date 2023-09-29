@@ -35,28 +35,52 @@ Phelipe Rodrigues Gomes.<br>
 
   **1.1 Planejamento:**
 
-1 Planejamento: 
-
 Nossas reuniões semanais servirão como o espaço onde todos poderão compartilhar suas ideias, discutir estratégias e definir o caminho a seguir. Cada membro do grupo terá a oportunidade de contribuir com sua experiência e opiniões, promovendo um ambiente de colaboração genuína. Durante essas reuniões, também estabeleceremos metas, refinamentos dos requisitos, atribuímos tarefas e monitoramos o progresso do projeto, além disso, essas reuniões semanais nos permite manter um cronograma claro e uma visão compartilhada do projeto, com a orientação da professora garantindo que estejamos no caminho certo e aderindo às melhores práticas. No entanto, nosso compromisso com reuniões regulares não se limita apenas à produtividade. Elas também servem para fortalecer os laços entre os membros da equipe, criando um ambiente onde todos se sintam valorizados e ouvidos. Afinal, o sucesso de um projeto não se resume apenas ao resultado final, mas à jornada que percorremos juntos.  
 
 **Os entregáveis dessa etapa são:** 
 
+**1.** Histórias de usuários 
+
+**2.** Cenários de testes 
+
+**3.** Wireframe 
+
+**4.** Refinamento e priorização das tarefas 
+
+**5.** Arquitetura de Solução 
+
+
+**2. Desenvolvimento**
+
+Com os entregáveis da fase de planejamento, inicia-se a fase de desenvolvimento. Onde os membros irão implementar as tarefas refinadas e priorizadas. Para um melhor gerenciamento, será utilizada iterações(sprints) de 15 dias. As tarefas da sprint serão selecionadas no início da mesma, considerando prioridades, esforço e  e requisitos mínimos para o produto. A sprint deverá ser acompanhada por meio de reuniões semanais onde cada integrante irá informar o status da tarefa e se tem algum impedimento. 
+
+**3. Workflow**   
+
+A criação da metodologia foi um processo colaborativo, cada membro do grupo contribuiu com suas ideias, perspectivas e experiências, resultando em uma abordagem abrangente e eficaz para o usuário garantindo que fosse sólida e adaptável às necessidades em constante evolução do projeto. 
+
+A organização do grupo com base no Trello oferece uma abordagem prática e colaborativa para gerenciar projetos e tarefas. Com sua interface intuitiva e recursos flexíveis, o Trello ajuda a equipe a manterem-se organizadas, a otimizar a comunicação e a alcançar os seus objetivos de forma eficaz. 
+
+Começamos a trabalhar em nosso projeto inicial de interface. Essa parte do processo foi igualmente emocionante, pois começamos a transformar conceitos abstratos em algo tangível e funcional. Cada detalhe da interface foi cuidadosamente projetado com base em nossa metodologia, para garantir que atendesse às expectativas do projeto e às necessidades do usuário tendo a ideia de ser manuseado instintivamente. 
+
+**No Trello será utilizado o quadro Kanban com as seguintes atribuições:** 
+
  
-<ol> 
-1. Histórias de usuários 
+**1**.Sprint atual – Numeral 
+**2**Prioridade - (1,2,3) sendo 1 de maior prioridade e 3 menores prioridade  
+**3**Etiqueta - Tipo da tarefa, pode ser Desenvolvimento, Documentação , Gerência de Projetos, Infraestrutura, Testes. 
 
-2. Cenários de testes 
+**3.1 Fluxo kanban** 
 
-3. Wireframe 
+O quadro kanban é composto por colunas e linhas onde a coluna representa o status atual da tarefa e as linhas tarefas propriamente dito. Durante a esteira de desenvolvimento as tarefas percorrem as colunas de acordo com o andamento da tarefa. Abaixo estão as colunas que iremos utilizar. 
 
-4. Refinamento e priorização das tarefas 
+ 
 
-5. Arquitetura de Solução 
+**Backlog**- Tarefas em planejamento. 
+**To Do**- Tarefa pronta para ser desenvolvida  
+**Doing**- Tarefas em desenvolvimento 
+**Done**- Tarefa concluída pronta entrar em produção 
 
-</ol> 
-
-
-
+ 
 
 **Etapa 2 (Evidência:):**
 [
