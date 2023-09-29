@@ -47,10 +47,10 @@ Nossas reuniões semanais servirão como o espaço onde todos poderão compartil
 
 **4.** Refinamento e priorização das tarefas<br> 
 
-**5.** Arquitetura de Solução<br> 
+**<p>5.** Arquitetura de Solução</p><br> 
 
 
-###**<p>2.Desenvolvimento</p>**
+**<p>2.Desenvolvimento</p>**
 
 Com os entregáveis da fase de planejamento, inicia-se a fase de desenvolvimento. Onde os membros irão implementar as tarefas refinadas e priorizadas. Para um melhor gerenciamento, será utilizada iterações(sprints) de 15 dias. As tarefas da sprint serão selecionadas no início da mesma, considerando prioridades, esforço e  e requisitos mínimos para o produto. A sprint deverá ser acompanhada por meio de reuniões semanais onde cada integrante irá informar o status da tarefa e se tem algum impedimento. 
 
@@ -72,7 +72,7 @@ Começamos a trabalhar em nosso projeto inicial de interface. Essa parte do proc
 **3.** Etiqueta - Tipo da tarefa, Desenvolvimento, Documentação, Gerência de Projetos, Infraestrutura, Testes.<br> 
 
 
-**###<p>3.1 Fluxo kanban</p>** 
+**<p>3.1 Fluxo kanban</p>** 
 
 O quadro kanban é composto por colunas e linhas onde a coluna representa o status atual da tarefa e as linhas tarefas propriamente dito. Durante a esteira de desenvolvimento as tarefas percorrem as colunas de acordo com o andamento da tarefa. Abaixo estão as colunas que iremos utilizar. 
 
