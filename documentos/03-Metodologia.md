@@ -38,7 +38,7 @@ Phelipe Rodrigues Gomes.<br>
 Nossas reuniões semanais servirão como o espaço onde todos poderão compartilhar suas ideias, discutir estratégias e definir o caminho a seguir. Cada membro do grupo terá a oportunidade de contribuir com sua experiência e opiniões, promovendo um ambiente de colaboração genuína. Durante essas reuniões, também estabeleceremos metas, refinamentos dos requisitos, atribuímos tarefas e monitoramos o progresso do projeto, além disso, essas reuniões semanais nos permite manter um cronograma claro e uma visão compartilhada do projeto, com a orientação da professora garantindo que estejamos no caminho certo e aderindo às melhores práticas. No entanto, nosso compromisso com reuniões regulares não se limita apenas à produtividade. Elas também servem para fortalecer os laços entre os membros da equipe, criando um ambiente onde todos se sintam valorizados e ouvidos. Afinal, o sucesso de um projeto não se resume apenas ao resultado final, mas à jornada que percorremos juntos.  
 
 **Os entregáveis dessa etapa são:** 
-
+<ol>
 **1.** Histórias de usuários<br> 
 
 **2.** Cenários de testes<br> 
@@ -48,8 +48,8 @@ Nossas reuniões semanais servirão como o espaço onde todos poderão compartil
 **4.** Refinamento e priorização das tarefas<br> 
 
 **5.** Arquitetura de Solução<br> 
+</ol>
 
-<br>
 **2. Desenvolvimento**
 
 Com os entregáveis da fase de planejamento, inicia-se a fase de desenvolvimento. Onde os membros irão implementar as tarefas refinadas e priorizadas. Para um melhor gerenciamento, será utilizada iterações(sprints) de 15 dias. As tarefas da sprint serão selecionadas no início da mesma, considerando prioridades, esforço e  e requisitos mínimos para o produto. A sprint deverá ser acompanhada por meio de reuniões semanais onde cada integrante irá informar o status da tarefa e se tem algum impedimento. 
