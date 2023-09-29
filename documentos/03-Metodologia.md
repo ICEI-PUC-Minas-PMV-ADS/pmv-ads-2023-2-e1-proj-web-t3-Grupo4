@@ -45,6 +45,9 @@ A organização do grupo com base no Trello oferece uma abordagem prática e col
 
 Começamos a trabalhar em nosso projeto inicial de interface. Essa parte do processo foi igualmente emocionante, pois começamos a transformar conceitos abstratos em algo tangível e funcional. Cada detalhe da interface foi cuidadosamente projetado com base em nossa metodologia, para garantir que atendesse às expectativas do projeto e às necessidades do usuário tendo a ideia de ser manuseado instintivamente</em>.
 
+
+
+
 **Etapa 2 (Evidência:):**
 [
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/144849420/72ba9715-38dc-4aab-bf31-9fd9437ffbf3)](https://trello.com/b/OW4u73MF/kanban-quadro-modelo)
