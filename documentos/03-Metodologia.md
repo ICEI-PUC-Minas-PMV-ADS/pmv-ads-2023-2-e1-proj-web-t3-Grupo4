@@ -49,7 +49,7 @@ Nossas reuniões semanais servirão como o espaço onde todos poderão compartil
 
 **5.** Arquitetura de Solução<br> 
 
-
+<br>
 **2. Desenvolvimento**
 
 Com os entregáveis da fase de planejamento, inicia-se a fase de desenvolvimento. Onde os membros irão implementar as tarefas refinadas e priorizadas. Para um melhor gerenciamento, será utilizada iterações(sprints) de 15 dias. As tarefas da sprint serão selecionadas no início da mesma, considerando prioridades, esforço e  e requisitos mínimos para o produto. A sprint deverá ser acompanhada por meio de reuniões semanais onde cada integrante irá informar o status da tarefa e se tem algum impedimento. 
@@ -66,6 +66,7 @@ Começamos a trabalhar em nosso projeto inicial de interface. Essa parte do proc
 
  
 **1**.Sprint atual – Numeral<br> 
+
 **2**Prioridade - (1,2,3) sendo 1 de maior prioridade e 3 menores prioridade<br>  
 **3**Etiqueta - Tipo da tarefa, Desenvolvimento, Documentação, Gerência de Projetos, Infraestrutura, Testes.<br> 
 
