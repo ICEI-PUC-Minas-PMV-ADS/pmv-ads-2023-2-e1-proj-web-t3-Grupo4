@@ -50,13 +50,13 @@ Nossas reuniões semanais servirão como o espaço onde todos poderão compartil
 **5.** Arquitetura de Solução<br> 
 
 
-**###<p>2.Desenvolvimento</p>**
+###**<p>2.Desenvolvimento</p>**
 
 Com os entregáveis da fase de planejamento, inicia-se a fase de desenvolvimento. Onde os membros irão implementar as tarefas refinadas e priorizadas. Para um melhor gerenciamento, será utilizada iterações(sprints) de 15 dias. As tarefas da sprint serão selecionadas no início da mesma, considerando prioridades, esforço e  e requisitos mínimos para o produto. A sprint deverá ser acompanhada por meio de reuniões semanais onde cada integrante irá informar o status da tarefa e se tem algum impedimento. 
 
 
 
-**###<p>3. Workflow</p>**   
+**<p>3. Workflow</p>**   
 
 A criação da metodologia foi um processo colaborativo, cada membro do grupo contribuiu com suas ideias, perspectivas e experiências, resultando em uma abordagem abrangente e eficaz para o usuário garantindo que fosse sólida e adaptável às necessidades em constante evolução do projeto. 
 
