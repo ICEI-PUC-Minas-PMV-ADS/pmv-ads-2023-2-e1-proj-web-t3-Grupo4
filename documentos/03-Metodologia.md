@@ -32,14 +32,11 @@ Phelipe Rodrigues Gomes.<br>
 
 ### Processo
 
-  **Etapa 1 (Sprint 1):**
 
   **1.1 Planejamento:**
 
 <em>Nossas reuniões semanais servirão como o espaço onde todos poderão compartilhar suas ideias, discutir estratégias e definir o caminho a seguir. Cada membro do grupo terá a oportunidade de contribuir com sua experiência e opiniões, promovendo um ambiente de colaboração genuína. Durante essas reuniões, também estabeleceremos metas, atribuiremos tarefas e monitoraremos o progresso do projeto, além disso, essas reuniões semanais nos permite manter um cronograma claro e uma visão compartilhada do projeto, com a orientação da professora garantindo que estejamos no caminho certo e aderindo às melhores práticas.
 No entanto, nosso compromisso com reuniões regulares não se limita apenas à produtividade. Elas também servem para fortalecer os laços entre os membros da equipe, criando um ambiente onde todos se sintam valorizados e ouvidos. Afinal, o sucesso de um projeto não se resume apenas ao resultado final, mas à jornada que percorremos juntos</em>.
-
-  **Etapa 2 (Sprint 2):**
 
 
 <em>A criação da metodologia foi um processo colaborativo, cada membro do grupo contribuiu com suas ideias, perspectivas e experiências, resultando em uma abordagem abrangente e eficaz para o usuário garantindo que fosse sólida e adaptável às necessidades em constante evolução do projeto.
