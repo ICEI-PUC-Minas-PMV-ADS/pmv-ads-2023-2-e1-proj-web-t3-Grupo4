@@ -53,7 +53,7 @@ Nossas reuniões semanais servirão como o espaço onde todos poderão compartil
 **<p>2.Desenvolvimento</p>**
 
 Com os entregáveis da fase de planejamento, inicia-se a fase de desenvolvimento. Onde os membros irão implementar as tarefas refinadas e priorizadas. Para um melhor gerenciamento, será utilizada iterações(sprints) de 15 dias. As tarefas da sprint serão selecionadas no início da mesma, considerando prioridades, esforço e  e requisitos mínimos para o produto. A sprint deverá ser acompanhada por meio de reuniões semanais onde cada integrante irá informar o status da tarefa e se tem algum impedimento. 
-
+<p></p>
 **<p>3. Workflow</p>**   
 
 A criação da metodologia foi um processo colaborativo, cada membro do grupo contribuiu com suas ideias, perspectivas e experiências, resultando em uma abordagem abrangente e eficaz para o usuário garantindo que fosse sólida e adaptável às necessidades em constante evolução do projeto. 
@@ -65,10 +65,10 @@ Começamos a trabalhar em nosso projeto inicial de interface. Essa parte do proc
 **No Trello será utilizado o quadro Kanban com as seguintes atribuições:** 
 
  
-**<p>1.**.Sprint atual – Numeral.</p> <br> 
-**<p>2.** Prioridade - (1,2,3) sendo 1 de maior prioridade e 3 menores prioridade.<br></p>  
-**<p>3.** Etiqueta - Tipo da tarefa, Desenvolvimento, Documentação, Gerência de Projetos, Infraestrutura, Testes.<br> </p>
-
+**1.**.Sprint atual – Numeral. <br> 
+**2.** Prioridade - (1,2,3) sendo 1 de maior prioridade e 3 menores prioridade.<br> 
+**3.** Etiqueta - Tipo da tarefa, Desenvolvimento, Documentação, Gerência de Projetos, Infraestrutura, Testes.<br> 
+<p></p>
 **<p>3.1 Fluxo kanban</p>** 
 
 O quadro kanban é composto por colunas e linhas onde a coluna representa o status atual da tarefa e as linhas tarefas propriamente dito. Durante a esteira de desenvolvimento as tarefas percorrem as colunas de acordo com o andamento da tarefa. Abaixo estão as colunas que iremos utilizar. 
