@@ -69,7 +69,7 @@ Começamos a trabalhar em nosso projeto inicial de interface. Essa parte do proc
  
 **1.**.Sprint atual – Numeral. <br> 
 **2.** Prioridade - (1,2,3) sendo 1 de maior prioridade e 3 menores prioridade.<br> 
-**<p>3.** Etiqueta - Tipo da tarefa, Desenvolvimento, Documentação, Gerência de Projetos, Infraestrutura, Testes.<br> </p>
+**3.** Etiqueta - Tipo da tarefa, Desenvolvimento, Documentação, Gerência de Projetos, Infraestrutura, Testes.<br> 
 
 
 **<p>3.1 Fluxo kanban</p>** 
