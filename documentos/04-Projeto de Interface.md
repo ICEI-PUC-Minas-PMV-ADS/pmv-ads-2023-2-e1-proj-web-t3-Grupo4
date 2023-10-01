@@ -5,15 +5,17 @@
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
+## Contexto
 O projeto do controle de escala intermitente permite que o usuário que trabalhe em escalas alternativas possa saber quais serão os seus dias trabalhados e os seus dias de folga, podendo pesquisar um dia ou um período específico, ou vendo a sua escala de um modo geral. Ele insere uma data, ou um período de datas e o programa retorna com a resposta, se nos dias consultados trabalhará ou se estará de folga.
 
 Abaixo está detalhado qual o percurso a ser realizado pelo usuário. Inicialmente, ele verá uma tela de apresentação em que o contexto do programa será mostrado, um resumo geral da proposta de uso. 
 
-A partir dela, ele fará o cadastro ou login. A tela de cadastro terá duas telas, sendo a primeira para solicitar ao usuário nome e credenciais de acesso (email e senha), e a segunda tela para o registras as informações de sua escala e horários de trabalho. Na tela de login (se já cadastrado), basta inserir suas credenciais de acesso já cadastradas anteriormente.
+A partir dela, ele fará o cadastro ou login. O cadastro terá duas telas, sendo a primeira para solicitar ao usuário nome e credenciais de acesso (email e senha), e a segunda tela para o registras as informações de sua escala e horários de trabalho. Na tela de login (se já cadastrado), basta inserir suas credenciais de acesso já cadastradas anteriormente.
 
 Feito o cadastro/login, será apresentado ao usuário a tela de opções e funções para uso do programa. A partir daqui, ele poderá ver os dias de trabalho e folgas de modo geral pelo calendário, bem como pesquisar dias específicos. Estarão disponíveis também as opções de trocas pontuais (como trocas de escalas entre colegas, por exemplo) e a visualização de feriados. Nesta tela, haverá também a opção de configurar o seu uso, podendo alterar a escala cadastrada incialmente e também adicionar feriados.
 
-Neste link, é possível realizar o fluxo interativo das telas do programa:
+No link abaixo, é possível realizar o fluxo interativo das telas do programa:
+
 https://www.figma.com/file/T5DUqcoslGz1TNBOFIvgc7/CJI---Grupo-4?type=design&node-id=0%3A1&mode=design&t=yaPFyMt5iXMgLSA5-1
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/6b9cc9cb-91ef-42e1-9f81-84aeefa1c0bf)
@@ -24,9 +26,10 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
 
 ## Tela de apresentação
 Mostra um resumo do objetivo e das funcionalidades do programa:
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/067c08aa-c86a-4996-a378-5dc9bc93eabc)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/b17c5f4d-79d7-4294-9369-6a82d7584096)
 
 ## Tela de login
+Login para usuários já cadastrados, com opção de recuperação de senha, caso precise:
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/919d8ee5-43df-436a-bc03-6ac10740f9ff)
 
 ## Tela de cadastro
@@ -59,20 +62,21 @@ Nesta tela, o usuário pode ver os feriados que virão, e se ele trabalhará ou 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/025ad5d4-5bc9-4fdb-9afc-052738a00ef2)
 
 ## Configurações 
-Esta é a tela na qual o usuário pode alterar a escala cadastrada anteriormente, bem como cadastrar novos feriados e alterar as credenciais de acesso. Ele também poderá selecionar qual dia será o início da semana (se domingo ou segunda):
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/134326d3-2ae7-4f07-9330-46663c3cf7b3)
+Esta é a tela na qual o usuário pode alterar a escala cadastrada anteriormente, bem como cadastrar novos feriados e alterar as credenciais de acesso. Ele também poderá selecionar qual dia será o início da semana (se domingo ou segunda). O usuário precisará rever suas informações a cada seis meses:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/f2adf7ec-7ae2-40c1-bff6-caacfc4562c0)
 
 ## Alterar escala
 Tela para alterar uma escala já cadastrada:
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/0131ce2a-8379-4704-8412-826ca23831ef)
 
 ## Cadastrar/excluir feriados
-Tela para cadastro e exclusão de feriados
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/f93d9ba2-62c8-4b2d-ac35-e28544d2f1a5)
+Tela para cadastro e exclusão de feriados:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/3cc17166-71a0-4699-b6ad-7e0602574a5b)
 
 ## Alteração email/senha
-Tela para recuperação e alteração de credenciais de acesso
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/50802293-ae2e-42be-b5b0-6af751f63a0e)
+Tela para recuperação e alteração de credenciais de acesso:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/a4ce55d7-25ca-4dad-862d-5a62b8f5340f)
 
+Até o momento, estas são as telas propostas, podendo sofrer alterações ao longo do projeto, até a sua finalização.
 
 
