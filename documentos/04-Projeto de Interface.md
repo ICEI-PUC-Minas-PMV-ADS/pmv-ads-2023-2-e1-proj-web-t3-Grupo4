@@ -41,7 +41,7 @@ O usuário dirá quais são as suas informações de horário/escala de trabalho
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/373db616-2a93-4b18-b94e-d6cd2cd9fe05)
 
 ## Tela da escala (tela principal)
-Após o login/cadastro, o usuário acessará a página principal do programa, com as funcionalidades disponíveis: calendário para visualização geral, visualizaçãop de feriados, troca de escalas pontuais (como trocas entre colegas e uma opção para pesquisa de dias específicos. Esta tela também mostra também uma pré-visualização dos cinco dias seguintes de como será a escala do usuário nestes dias. FInalmente, é nesta tela também que o usuário poderá configurar seu espaço, com a possibilidade de alterar as credenciais de acesso, sua escala de trabalho e também adicionar e excluir feriados:
+Após o login/cadastro, o usuário acessará a página principal do programa, com as funcionalidades disponíveis: calendário para visualização geral, visualizaçãop de feriados, troca de escalas pontuais (como trocas entre colegas) e uma opção para pesquisa de dias específicos. Esta tela também mostra também uma pré-visualização dos cinco dias seguintes de como será a escala do usuário nestes dias. FInalmente, é nesta tela também que o usuário poderá configurar seu espaço, com a possibilidade de alterar as credenciais de acesso, sua escala de trabalho e também adicionar e excluir feriados:
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/bba00c6f-62c1-4ee3-b631-b6663e2f9500)
 
 ## Funcionalidades
