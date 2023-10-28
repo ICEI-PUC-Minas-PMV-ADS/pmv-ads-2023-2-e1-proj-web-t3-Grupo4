@@ -4,11 +4,13 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
-### Título da funcionalidade
+## Título da funcionalidade
 
 ### Alterar Senha e E-mail
-### Cadastrar/Excluir Feriados
-### Alterar Escala
+
+## Cadastrar/Excluir Feriados
+
+## Alterar Escala
 
 [Adicione imagem da funcionalidade/tela]
 
