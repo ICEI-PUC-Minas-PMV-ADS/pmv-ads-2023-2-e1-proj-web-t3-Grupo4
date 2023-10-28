@@ -14,8 +14,8 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Adicione imagem da funcionalidade/tela]
 
+![Captura de tela 2023-10-28 192323](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/74274262/91859e89-90a7-4c97-9c37-410b8a1dce32)
 
-https://www.figma.com/file/T5DUqcoslGz1TNBOFIvgc7/CJI---Grupo-4?type=design&node-id=63-740&mode=design&t=kVI8iaSflthFknUd-0
 
 #### Requisito atendido
 
