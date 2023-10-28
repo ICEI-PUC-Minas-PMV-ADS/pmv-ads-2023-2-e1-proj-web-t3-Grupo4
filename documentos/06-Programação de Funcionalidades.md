@@ -15,6 +15,16 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 ## Alterar Escala
 ![Captura de tela 2023-10-28 192608](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/74274262/4f398d66-eadf-48cf-9a57-911420095b18)
 
+## Ver Feriados 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/144849420/5e01d6b9-a495-4259-9e28-70ee2c5c43bd)
+
+## Calendario Feriados 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/144849420/fc0b95e6-c797-4f89-aab3-8572887b0720)
+
+
+
 #### Requisito atendido
 
 Função para troca de senha e e-mail do usuário.
@@ -22,6 +32,10 @@ Função para troca de senha e e-mail do usuário.
 Função para cadastrar ou excluir feriados.
 
 Função para alterar a escala em si.
+
+Função ver feriados, demonstração do calendario do mes.
+
+Função para calendario e feriados, opção de escolher o mes desejado.
 
 
 #### Artefatos da funcionalidade
@@ -35,7 +49,10 @@ Feriados.css
 Alterar Escala.html
 Escala.css
 
-
+Ver feriados Html. css
+Calendario e feriados Html. css
+ 
+ 
 
 
 #### Estrutura de Dados
@@ -51,7 +68,7 @@ Escala.css
 #### Responsável
 
 José Henrique da Costa Resende
-
+Lídia Viana Goulart de Almeida 
 
 
 
