@@ -10,8 +10,10 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 ![Captura de tela 2023-10-28 192323](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/74274262/91859e89-90a7-4c97-9c37-410b8a1dce32)
 
 ## Cadastrar/Excluir Feriados
+![Captura de tela 2023-10-28 192536](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/74274262/f1f557c9-6a0f-4073-9b55-9d2c32de03ab)
 
 ## Alterar Escala
+![Captura de tela 2023-10-28 192608](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/74274262/4f398d66-eadf-48cf-9a57-911420095b18)
 
 #### Requisito atendido
 
