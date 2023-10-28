@@ -15,6 +15,8 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 [Adicione imagem da funcionalidade/tela]
 
 
+https://www.figma.com/file/T5DUqcoslGz1TNBOFIvgc7/CJI---Grupo-4?type=design&node-id=63-740&mode=design&t=kVI8iaSflthFknUd-0
+
 #### Requisito atendido
 
 Função para troca de senha e e-mail do usuário.
