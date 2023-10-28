@@ -17,7 +17,11 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+Função para troca de senha e e-mail do usuário.
+
+Função para cadastrar ou excluir feriados.
+
+Função para alterar a escala em si.
 
 
 #### Artefatos da funcionalidade
@@ -37,7 +41,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 #### Responsável
 
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
+José Henrique da Costa Resende
 
 
 
