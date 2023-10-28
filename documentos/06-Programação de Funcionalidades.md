@@ -28,7 +28,16 @@ Função para alterar a escala em si.
 
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
+Alterar Senha e E-mail.html
+stylemain.css
+
+Feriados.html
+Feriados.css
+
+Alterar Escala.html
+Escala.css
+
+
 
 
 #### Estrutura de Dados
