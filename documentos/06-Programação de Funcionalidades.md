@@ -6,7 +6,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 ## Título da funcionalidade
 
-### Alterar Senha e E-mail
+## Alterar Senha e E-mail
 
 ## Cadastrar/Excluir Feriados
 
