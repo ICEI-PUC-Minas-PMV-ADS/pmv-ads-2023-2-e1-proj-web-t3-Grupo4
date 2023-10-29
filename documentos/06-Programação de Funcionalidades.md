@@ -196,19 +196,47 @@ troca-turno.html
 Kelveng Carlisson Petuba Magalhães
 
 
-## Tela Troca pontual
+## Tela Cadastro acesso
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/55f5a763-6c2b-419f-ae53-9a3397cf85cf)
 
 #### Requisito atendido
+Criação de login para acesso ao programa
 
 #### Artefatos da funcionalidade
 
+cadastro\index.html
+
+cadastro\css\index.css
 
 #### Estrutura de Dados
 
 #### Instruções de acesso
 
 #### Responsável
+Germanio Laudiene Diniz Correa
+
+
+## Tela Cadastro de escala
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/51dc79be-c0f2-4da9-91f6-b66cd524a805)
+
+
+#### Requisito atendido
+Inserção de dados da escala do usuário para a utilização do programa
+
+#### Artefatos da funcionalidade
+
+cadastro de escalas\index.html
+
+cadastro\css\index.css
+
+#### Estrutura de Dados
+
+#### Instruções de acesso
+
+#### Responsável
+Germanio Laudiene Diniz Correa
 
 
 
