@@ -19,6 +19,7 @@ background: #FFD700 (usado para demarcar os dias de folga)
 
 background: #4C4E4C (usado para demarcar os dias de trabalho)
 
+
 Font-family: Arial, Inter, sans-serif e bold.
 
 Font-size: entre 14px à 30px.
