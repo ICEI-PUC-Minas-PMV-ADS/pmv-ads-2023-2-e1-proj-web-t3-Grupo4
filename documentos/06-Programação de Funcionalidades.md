@@ -7,69 +7,174 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 ### Título da funcionalidade
 
 ## Alterar Senha e E-mail
+
 ![Captura de tela 2023-10-28 192323](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/74274262/91859e89-90a7-4c97-9c37-410b8a1dce32)
 
+#### Requisito atendido
+Função para troca de senha e e-mail do usuário.
+
+#### Artefatos da funcionalidade
+Alterar Senha e E-mail.html
+stylemain-senhaemail.css
+
+#### Estrutura de Dados
+
+#### Instruções de acesso
+
+#### Responsável
+José Henrique da Costa Resende
+
+
 ## Cadastrar/Excluir Feriados
+
 ![Captura de tela 2023-10-28 192536](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/74274262/f1f557c9-6a0f-4073-9b55-9d2c32de03ab)
 
+#### Requisito atendido
+Função para cadastrar ou excluir feriados.
+
+#### Artefatos da funcionalidade
+Feriados-cadastrar-excluir.html
+Feriados.css
+
+#### Estrutura de Dados
+
+#### Instruções de acesso
+
+#### Responsável
+José Henrique da Costa Resende
+
+
 ## Alterar Escala
+
 ![Captura de tela 2023-10-28 192608](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/74274262/4f398d66-eadf-48cf-9a57-911420095b18)
+
+#### Requisito atendido
+Função para alterar a escala em si.
+
+#### Artefatos da funcionalidade
+Alterar Escala.html
+Escala.css
+
+#### Estrutura de Dados
+
+#### Instruções de acesso
+
+#### Responsável
+José Henrique da Costa Resende
+
+
+
 
 ## Ver Feriados 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/144849420/5e01d6b9-a495-4259-9e28-70ee2c5c43bd)
 
+#### Requisito atendido
+Função ver feriados, demonstração do calendário do mês.
+
+#### Artefatos da funcionalidade
+feriados.html
+
+#### Estrutura de Dados
+
+#### Instruções de acesso
+
+#### Responsável
+Lídia Viana Goulart de Almeida 
+
+
 ## Calendario Feriados 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/144849420/fc0b95e6-c797-4f89-aab3-8572887b0720)
 
-
-
 #### Requisito atendido
-
-Função para troca de senha e e-mail do usuário.
-
-Função para cadastrar ou excluir feriados.
-
-Função para alterar a escala em si.
-
-Função ver feriados, demonstração do calendario do mes.
-
 Função para calendario e feriados, opção de escolher o mes desejado.
 
-
 #### Artefatos da funcionalidade
-
-Alterar Senha e E-mail.html
-stylemain.css
-
-Feriados.html
-Feriados.css
-
-Alterar Escala.html
-Escala.css
-
-Ver feriados Html. css
-Calendario e feriados Html. css
- 
- 
-
+Calendario_feriados_2.html
 
 #### Estrutura de Dados
 
-[Caso exista estrutura de dados, adicione aqui]
+#### Instruções de acesso
 
+#### Responsável
+Lídia Viana Goulart de Almeida 
+
+
+## Tela principal
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/8734ac24-afe8-40d9-b856-6812b1151aa3)
+
+#### Requisito atendido
+Tela principal do programa, para acesso as funcionalidades e as configurações
+
+#### Artefatos da funcionalidade
+telaprincipal.html
+stylemain.css
+stylemobile.css
+
+#### Estrutura de Dados
 
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+#### Responsável
+Phelipe Rodrigues Gomes
 
+
+## Tela configurações
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/73b8342d-7264-4e4c-a408-07933537bd8b)
+
+#### Requisito atendido
+Tela de configurações do programa
+
+#### Artefatos da funcionalidade
+config.html
+stylemain.css
+stylemobile.css
+
+#### Estrutura de Dados
+
+#### Instruções de acesso
 
 #### Responsável
+Phelipe Rodrigues Gomes
 
-José Henrique da Costa Resende
-Lídia Viana Goulart de Almeida 
 
+## Tela Pesquisa de dias
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/73b8342d-7264-4e4c-a408-07933537bd8b)
+
+#### Requisito atendido
+Tela para pesquisar dias posteriores no calendário
+
+#### Artefatos da funcionalidade
+pesquisar-dias.html
+
+#### Estrutura de Dados
+
+#### Instruções de acesso
+
+#### Responsável
+Kelveng Carlisson Petuba Magalhães
+
+
+## Tela Troca pontual
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/772e0d65-178f-42e9-8b68-10ecf47a39fe)
+
+#### Requisito atendido
+Tela para realizar uma troca pontual do colaborador (de folga para trabalho e vice-versa)
+
+#### Artefatos da funcionalidade
+troca-turno.html
+
+#### Estrutura de Dados
+
+#### Instruções de acesso
+
+#### Responsável
+Kelveng Carlisson Petuba Magalhães
 
 
 > **Links Úteis**:
