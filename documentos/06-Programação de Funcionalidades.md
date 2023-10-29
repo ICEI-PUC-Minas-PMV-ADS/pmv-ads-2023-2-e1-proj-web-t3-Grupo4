@@ -21,6 +21,7 @@ Alterar Senha e E-mail.html
 stylemain-senhaemail.css
 
 #### Estrutura de Dados
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/tree/7fc69b54fc7982afdccdfd367007865ee01072e2/codigo-fonte/configura%C3%A7%C3%A3o%20fun%C3%A7%C3%B5es
 
 #### Instruções de acesso
 
@@ -43,6 +44,7 @@ Feriados-cadastrar-excluir.html
 Feriados.css
 
 #### Estrutura de Dados
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/tree/7fc69b54fc7982afdccdfd367007865ee01072e2/codigo-fonte/configura%C3%A7%C3%A3o%20fun%C3%A7%C3%B5es
 
 #### Instruções de acesso
 
@@ -65,6 +67,7 @@ Alterar Escala.html
 Escala.css
 
 #### Estrutura de Dados
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/tree/7fc69b54fc7982afdccdfd367007865ee01072e2/codigo-fonte/configura%C3%A7%C3%A3o%20fun%C3%A7%C3%B5es
 
 #### Instruções de acesso
 
@@ -86,6 +89,7 @@ Função ver feriados, demonstração do calendário do mês.
 feriados.html
 
 #### Estrutura de Dados
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/blob/7fc69b54fc7982afdccdfd367007865ee01072e2/codigo-fonte/calendario%20e%20feriados/feriados.html
 
 #### Instruções de acesso
 
@@ -102,9 +106,10 @@ Função para calendario e feriados, opção de escolher o mes desejado.
 
 #### Artefatos da funcionalidade
 
-Calendario_feriados_2.html
+feriados_calendario_2.html
 
 #### Estrutura de Dados
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/blob/7fc69b54fc7982afdccdfd367007865ee01072e2/codigo-fonte/calendario%20e%20feriados/feriados_calendario_2.html
 
 #### Instruções de acesso
 
@@ -129,6 +134,7 @@ stylemain.css
 stylemobile.css
 
 #### Estrutura de Dados
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/tree/7fc69b54fc7982afdccdfd367007865ee01072e2/codigo-fonte/tela%20principal%20e%20tela%20config
 
 #### Instruções de acesso
 
@@ -153,6 +159,7 @@ stylemain.css
 stylemobile.css
 
 #### Estrutura de Dados
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/tree/7fc69b54fc7982afdccdfd367007865ee01072e2/codigo-fonte/tela%20principal%20e%20tela%20config
 
 #### Instruções de acesso
 
@@ -171,6 +178,7 @@ Tela para pesquisar dias posteriores no calendário
 pesquisar-dias.html
 
 #### Estrutura de Dados
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/blob/7fc69b54fc7982afdccdfd367007865ee01072e2/codigo-fonte/troca%20pontual%20e%20pesquisa%20dias/pesquisar-dias.html
 
 #### Instruções de acesso
 
@@ -189,6 +197,7 @@ Tela para realizar uma troca pontual do colaborador (de folga para trabalho e vi
 troca-turno.html
 
 #### Estrutura de Dados
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/blob/7fc69b54fc7982afdccdfd367007865ee01072e2/codigo-fonte/troca%20pontual%20e%20pesquisa%20dias/troca-turno.html
 
 #### Instruções de acesso
 
@@ -210,6 +219,7 @@ cadastro\index.html
 cadastro\css\index.css
 
 #### Estrutura de Dados
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/tree/7fc69b54fc7982afdccdfd367007865ee01072e2/codigo-fonte/Cadastro%20programa/cadastro
 
 #### Instruções de acesso
 
@@ -232,6 +242,8 @@ cadastro de escalas\index.html
 cadastro\css\index.css
 
 #### Estrutura de Dados
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/tree/7fc69b54fc7982afdccdfd367007865ee01072e2/codigo-fonte/Cadastro%20programa/cadastro%20de%20escalas
 
 #### Instruções de acesso
 
