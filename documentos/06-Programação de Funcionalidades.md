@@ -15,6 +15,7 @@ Função para troca de senha e e-mail do usuário.
 
 #### Artefatos da funcionalidade
 
+
 Alterar Senha e E-mail.html
 
 stylemain-senhaemail.css
@@ -35,7 +36,10 @@ José Henrique da Costa Resende
 Função para cadastrar ou excluir feriados.
 
 #### Artefatos da funcionalidade
+
+
 Feriados-cadastrar-excluir.html
+
 Feriados.css
 
 #### Estrutura de Dados
@@ -54,7 +58,10 @@ José Henrique da Costa Resende
 Função para alterar a escala em si.
 
 #### Artefatos da funcionalidade
+
+
 Alterar Escala.html
+
 Escala.css
 
 #### Estrutura de Dados
@@ -75,6 +82,7 @@ José Henrique da Costa Resende
 Função ver feriados, demonstração do calendário do mês.
 
 #### Artefatos da funcionalidade
+
 feriados.html
 
 #### Estrutura de Dados
@@ -93,6 +101,7 @@ Lídia Viana Goulart de Almeida
 Função para calendario e feriados, opção de escolher o mes desejado.
 
 #### Artefatos da funcionalidade
+
 Calendario_feriados_2.html
 
 #### Estrutura de Dados
@@ -111,8 +120,12 @@ Lídia Viana Goulart de Almeida
 Tela principal do programa, para acesso as funcionalidades e as configurações
 
 #### Artefatos da funcionalidade
+
+
 telaprincipal.html
+
 stylemain.css
+
 stylemobile.css
 
 #### Estrutura de Dados
@@ -131,8 +144,12 @@ Phelipe Rodrigues Gomes
 Tela de configurações do programa
 
 #### Artefatos da funcionalidade
+
+
 config.html
+
 stylemain.css
+
 stylemobile.css
 
 #### Estrutura de Dados
