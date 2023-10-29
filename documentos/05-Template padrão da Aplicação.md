@@ -19,7 +19,7 @@ Font-family: Arial, Inter, sans-serif e bold.
 Font-size: entre 14px à 30px.
 
 ## Layout preferencial para as telas
-Esta é a tela principal do programa, que dá acesso a todas as funcionalidades propostas para o usuário. A partir daqui, ele poderá acessar as funcionalidades disponíveis: calendário para visualização geral, visualização de feriados, troca de escalas pontuais (como trocas entre colegas) e uma opção para pesquisa de dias específicos. Esta tela também mostra também uma pré-visualização dos cinco dias seguintes de como será a escala do usuário nestes dias. FInalmente, é nela também que o usuário poderá configurar seu espaço, com a possibilidade de alterar as credenciais de acesso, sua escala de trabalho e também adicionar e excluir feriados:
+Esta é a tela principal do programa, que dá acesso a todas as funcionalidades propostas para o usuário. A partir daqui, ele poderá acessar as funcionalidades disponíveis: calendário para visualização geral, visualização de feriados, troca de escalas pontuais (como trocas entre colegas) e uma opção para pesquisa de dias específicos, além do acesso às configurações do programa:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/fc69c28d-b2b6-4b60-b727-59352be7fc06)
 
@@ -30,6 +30,13 @@ Para representação visual dos dias, optamos por utilizar as cores amarelo (#FF
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/4d637ffb-13a4-4590-bbe5-d165258a8a38)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/091abb5c-27dd-482c-8b02-60441cba224a)
+
+Para as ferramentas e configurações gerais da aplicação, optamos por tornar os botões em cinza. Como fontes principais da aplicação, usaremos a Arial e Inter, nos estilos san-serif e bold como demonstrado na tela de configurações:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/2caab490-73e9-469d-ba9f-278f7944653c)
+
+
+
 
 > **Links Úteis**:
 >
