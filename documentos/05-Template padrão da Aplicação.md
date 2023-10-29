@@ -8,14 +8,19 @@ As páginas terão como elementos padrões o menu de navegação, o header e o f
 
 Cores RGB: 
 background-color: #050450 (header)
+
 background-color: gray; (footer)
+
 background-color: #069CF0 (botões principais)
+
 background-color: #E8E8E8 (botões de configurações
 
 background: #FFD700 (usado para demarcar os dias de folga)
+
 background: #4C4E4C (usado para demarcar os dias de trabalho)
 
 Font-family: Arial, Inter, sans-serif e bold.
+
 Font-size: entre 14px à 30px.
 
 ## Layout preferencial para as telas
