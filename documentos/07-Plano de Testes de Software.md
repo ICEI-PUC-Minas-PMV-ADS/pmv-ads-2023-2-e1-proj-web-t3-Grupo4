@@ -6,10 +6,10 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 |Caso de Teste    | CT-X -Cadastro de escala |
 |:---|:---|
-| Requisitos Associados | colocar sua excala de trabalho, dia para iniciar,mês, nome como gostaria de ser chamado. |
-| Objetivo do Teste | Descrição do objetivo do teste |
-| Passos | Indicar passos para a execução do teste |
-| Critérios de êxito | Indicar os critérios de êxito  |
+| Requisitos Associados |  |
+| Objetivo do Teste | para o trabalhador conseguir ter à acesso ao calendario de escalas. |
+| Passos |colocar seu nome de sua preferencia,escala de trabaho, dia para iniciar, e mês |
+| Critérios de êxito | Feito isso, o usuario poderá seguir para à tela de escalas  |
 | Responsável pela elaborar do caso de Teste | Germanio Laudiene Diniz Corrêa |
  
 > **Links Úteis**:
