@@ -57,7 +57,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | José Henrique da Costa Resende |
 
 
-|Caso de Teste    | CT-3 - Cadastrar ou excluir feriados  |
+|Caso de Teste    | CT-3 - Cadastrar ou excluir feriados |
 |:---|:---|
 | Requisitos Associados | RNF - 03 |
 | Objetivo do Teste |O sistema deve permitir que o usuário cadastre ou exclua feriados. |
