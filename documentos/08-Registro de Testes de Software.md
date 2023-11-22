@@ -6,6 +6,31 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
+| Resultados obtidos | O programa foi apresentado para três pessoas diferentes, que não participaram do processo de desenvolvimento e são futuros usuários da aplicação:
+ - Cristian Ferreira
+ - José Gomes
+ - André Silva
+
+Para a captação de opiniões, foi dada uma breve explicação para todos os participantes, e apresentada a seguinte tela (tela principal do programa):
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/e5a5dba6-80c9-46f8-a27a-c46df7ff037e)
+
+Sobre o aspecto visual, em unanimidade, os três concluíram que o programa apresenta um visual limpo.
+Sobre design, André  e Cristian, o design é satisfatório e elegante. Para José, o programa poderia ter um design mais moderno, se inspirando nas aplicações do Google, que utilizavam/utilizam a linguagem de design "Material Design" |
+| Responsável pela execução do caso de Teste | Phelipe Rodrigues Gomes |
+
+|Caso de Teste    | CT-X - Título Caso de Teste |
+|:---|:---|
+| Resultados obtidos | Descrever resultados do teste  |
+| Responsável pela execução do caso de Teste | Nome do integrante da equipe |
+
+|Caso de Teste    | CT-X - Título Caso de Teste |
+|:---|:---|
+| Resultados obtidos | Descrever resultados do teste  |
+| Responsável pela execução do caso de Teste | Nome do integrante da equipe |
+
+|Caso de Teste    | CT-X - Título Caso de Teste |
+|:---|:---|
 | Resultados obtidos | Descrever resultados do teste  |
 | Responsável pela execução do caso de Teste | Nome do integrante da equipe |
 
