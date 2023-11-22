@@ -19,7 +19,14 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Passos |colocar um nome de sua preferencia, sobrenome, email, senha e clicar no botâo cadastre-se. |
 | Critérios de êxito | Feito isso, o usuario podera proseguir para cadastro de escalas.  |
 | Responsável pela elaborar do caso de Teste | Germanio Laudiene Diniz Corrêa |
- 
+
+ |Caso de Teste    | CT-X -Cadastro  |
+|:---|:---|
+| Requisitos Associados | cadastro |
+| Objetivo do Teste | Um cadastro inicial, para que o usuário se identifique . |
+| Passos |colocar um nome de sua preferencia, sobrenome, email, senha e clicar no botâo cadastre-se. |
+| Critérios de êxito | Feito isso, o usuario podera proseguir para cadastro de escalas.  |
+| Responsável pela elaborar do caso de Teste | Germanio Laudiene Diniz Corrêa |
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
 > -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
