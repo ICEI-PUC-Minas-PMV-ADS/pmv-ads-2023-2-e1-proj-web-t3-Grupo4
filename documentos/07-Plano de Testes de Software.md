@@ -20,6 +20,26 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Critérios de êxito | Feito isso, o usuario podera proseguir para cadastro de escalas.  |
 | Responsável pela elaborar do caso de Teste | Germanio Laudiene Diniz Corrêa |
 
+
+ |Caso de Teste    | CT-3 - Layout do programa  |
+|:---|:---|
+| Requisitos Associados | RNF-08 |
+| Objetivo do Teste |O programa deve apresentar um design/layout limpo e elegante. |
+| Passos |Verificar visualmente a paleta de cores utilizada, a fonte, o tamanho dos objetos (botões, informações, etc.) |
+| Critérios de êxito | O layout deve ter um aspecto elegante, estando próximo à simetria e apenas mostrando os elementos importantes ao usuário  |
+| Responsável pela elaborar do caso de Teste | Phelipe Rodrigues Gomes |
+
+
+ |Caso de Teste    | CT-4 - Compreensão do texto e linguagem do programa |
+|:---|:---|
+| Requisitos Associados | RNF-05 |
+| Objetivo do Teste | O sistema deve apresentar uma fácil linguagem e ser intuitivo, com opções simples e autoexplicativas. |
+| Passos | O programa deve ser apresentado para pessoas que não participaram do processo de desenvolvimento, dando à elas uma breve explicação do propósito do programa. A partir disso, elas irão sugerir e comentar suas impressões acerca da compreensão, e saber o quanto as informações e funções são intuitivos e auto explicativos |
+| Critérios de êxito | O programa será mostrad para três pessoas diferentes, e pelo menos duas devem achar o programa intuitivo. |
+| Responsável pela elaborar do caso de Teste | Phelipe Rodrigues Gomes |
+
+
+
  |Caso de Teste    | CT-X -Titulo Caso de Teste  |
 |:---|:---|
 | Requisitos Associados | RF-X |
