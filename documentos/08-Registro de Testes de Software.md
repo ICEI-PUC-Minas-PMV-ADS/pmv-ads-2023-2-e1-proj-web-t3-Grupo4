@@ -20,7 +20,7 @@ Para a captação de opiniões, foi dada uma breve explicação para todos os pa
 Sobre o aspecto visual, em unanimidade, os três concluíram que o programa apresenta um visual limpo.
 Sobre design, André  e Cristian, o design é satisfatório e elegante. Para José, o programa poderia ter um design mais moderno, se inspirando nas aplicações do Google, que utilizavam/utilizam a linguagem de design "Material Design"
 
-Responsável pela execução do caso de Teste: Phelipe Rodrigues Gomes
+|:---|:---|
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
