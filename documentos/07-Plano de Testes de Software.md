@@ -19,6 +19,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Passos |colocar um nome de sua preferencia, sobrenome, email, senha e clicar no botâo cadastre-se. |
 | Critérios de êxito | Feito isso, o usuario podera proseguir para cadastro de escalas.  |
 | Responsável pela elaborar do caso de Teste | Germanio Laudiene Diniz Corrêa |
+
  |Caso de Teste    | CT-X -Titulo Caso de Teste  |
 |:---|:---|
 | Requisitos Associados | RF-X |
