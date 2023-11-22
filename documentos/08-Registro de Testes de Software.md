@@ -37,6 +37,10 @@ Para a captação de opiniões, foi dada uma breve explicação para todos os pa
 Sobre a intuitividade, os três concluíram que o programa é intuitivo e apresenta fãcil compreensão.
 Cristian fez uma breve observação acerca do título da funcionalidade "cadastrar troca pontual", sugerindo um nome mais informal para esta funcionalidade.
 
+
+
+
+
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
 | Resultados obtidos | Descrever resultados do teste  |
