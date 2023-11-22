@@ -25,8 +25,8 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 | Requisitos Associados | RNF-08 |
 | Objetivo do Teste |O programa deve apresentar um design/layout limpo e elegante. |
-| Passos |Verificar visualmente a paleta de cores utilizada, a fonte, o tamanho dos objetos (botões, informações, etc.) |
-| Critérios de êxito | O layout deve ter um aspecto elegante, estando próximo à simetria e apenas mostrando os elementos importantes ao usuário  |
+| Passos |Verificar visualmente a paleta de cores utilizada, a fonte, o tamanho dos objetos (botões, informações, etc.). O programa será apresentado para três pessoas diferentes, que deverão dizer as suas impressões sobre o aspecto visual do programa.|
+| Critérios de êxito | O layout deve ter um aspecto elegante, estando próximo à simetria e apenas mostrando os elementos importantes ao usuário. A partir de suas impressões, pelo menos duas pessoas deverão achar o visual do programa limpo e elegante.|
 | Responsável pela elaborar do caso de Teste | Phelipe Rodrigues Gomes |
 
 
