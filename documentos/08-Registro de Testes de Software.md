@@ -6,10 +6,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
-| Resultados obtidos | O programa foi apresentado para três pessoas diferentes, que não participaram do processo de desenvolvimento e são futuros usuários da aplicação:
- - Cristian Ferreira
- - José Gomes
- - André Silva
+| Resultados obtidos | O programa foi apresentado para três pessoas diferentes, que não participaram do processo de desenvolvimento e são futuros usuários da aplicação: - Cristian Ferreira - José Gomes - André Silva
 
 Para a captação de opiniões, foi dada uma breve explicação para todos os participantes, e apresentada a seguinte tela (tela principal do programa):
 
