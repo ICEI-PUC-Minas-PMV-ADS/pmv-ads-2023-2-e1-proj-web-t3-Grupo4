@@ -35,7 +35,7 @@ Para a captação de opiniões, foi dada uma breve explicação para todos os pa
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/110932147/e5a5dba6-80c9-46f8-a27a-c46df7ff037e)
 
 Sobre a intuitividade, os três concluíram que o programa é intuitivo e apresenta fãcil compreensão.
-Cristian fez uma breve observação acerca do título da funcionalidade "cadastrar troca pontual", sugerindo um nome mais informal para esta funcionalidade.
+Cristian fez uma breve observação acerca do título da funcionalidade "cadastrar troca pontual", sugerindo um nome mais informal.
 
 
 
