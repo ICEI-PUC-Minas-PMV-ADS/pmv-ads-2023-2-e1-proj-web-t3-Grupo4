@@ -5,7 +5,6 @@ Relatório com as evidências dos testes de software realizados na aplicação p
 Os resultados dos testes funcionais realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste executado]
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
-|:---|:---|
 Resultados obtidos:  O programa foi apresentado para três pessoas diferentes, que não participaram do processo de desenvolvimento e são futuros usuários da aplicação: 
   - Cristian Ferreira
   - José Gomes
