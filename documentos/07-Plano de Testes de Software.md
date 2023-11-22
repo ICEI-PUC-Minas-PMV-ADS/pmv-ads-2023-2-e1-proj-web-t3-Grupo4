@@ -7,7 +7,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |Caso de Teste    | CT-X -Cadastro de escala |
 |:---|:---|
 | Requisitos Associados |  |
-| Objetivo do Teste | um cadastro inicial para que o usuario passe para a proxima etapa e consiga ter acesso ao calendario de folgas. |
+| Objetivo do Teste | um cadastro inicial, para que o usuario passe para a proxima etapa, e consiga ter acesso ao calendario de folgas. |
 | Passos |colocar seu nome de sua preferencia,escala de trabaho, dia para iniciar, e mês. |
 | Critérios de êxito | Feito isso, o usuario poderá seguir para à tela de escalas  |
 | Responsável pela elaborar do caso de Teste | Germanio Laudiene Diniz Corrêa |
