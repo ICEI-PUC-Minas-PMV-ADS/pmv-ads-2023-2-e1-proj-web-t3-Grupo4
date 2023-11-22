@@ -34,8 +34,8 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 | Requisitos Associados | RNF-05 |
 | Objetivo do Teste | O sistema deve apresentar uma fácil linguagem e ser intuitivo, com opções simples e autoexplicativas. |
-| Passos | O programa deve ser apresentado para pessoas que não participaram do processo de desenvolvimento, dando à elas uma breve explicação do propósito do programa. A partir disso, elas irão sugerir e comentar suas impressões acerca da compreensão, e saber o quanto as informações e funções são intuitivos e auto explicativos |
-| Critérios de êxito | O programa será mostrad para três pessoas diferentes, e pelo menos duas devem achar o programa intuitivo. |
+| Passos | O programa deve ser apresentado para pessoas que não participaram do processo de desenvolvimento, dando à elas uma breve explicação do propósito do programa. A partir disso, elas irão sugerir e comentar suas impressões acerca da compreensão, e saber o quanto as informações e funções são intuitivos e auto explicativos. |
+| Critérios de êxito | O programa será mostrado para três pessoas diferentes, e pelo menos duas devem achar o programa intuitivo. |
 | Responsável pela elaborar do caso de Teste | Phelipe Rodrigues Gomes |
 
 
