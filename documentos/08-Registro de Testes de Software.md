@@ -39,9 +39,9 @@ Cristian fez uma breve observação acerca do título da funcionalidade "cadastr
 
 
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
+|Caso de Teste    | CT-X - Cadastro |
 |:---|:---|
-| Resultados obtidos |Como podemos ver na imagem os resultados foram realizados com  sucesso o usuário coloca seus dados,e nâo acontece nenhum erro.|
+| Resultados obtidos |Como podemos ver na imagem  abaixo, os resultados foram realizados com  sucesso o usuário coloca seus dados,e nâo acontece nenhum erro.|
 | Responsável pela execução do caso de Teste | Germanio Ludiene Diniz Correa |
 
 
