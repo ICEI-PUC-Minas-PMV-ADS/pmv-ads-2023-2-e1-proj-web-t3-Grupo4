@@ -41,8 +41,10 @@ Cristian fez uma breve observação acerca do título da funcionalidade "cadastr
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
-| Resultados obtidos |Como podemos ver na imagem os resusltados foram um sucesso o usuário coloca seus dados,e nâo acontece nenhum erro.|
+| Resultados obtidos |Como podemos ver na imagem os resultados foram realizados com  sucesso o usuário coloca seus dados,e nâo acontece nenhum erro.|
 | Responsável pela execução do caso de Teste | Germanio Ludiene Diniz Correa |
+
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/144963215/c96c5087-84a5-4e0f-b28f-96c97d43ae0d)
 
 
