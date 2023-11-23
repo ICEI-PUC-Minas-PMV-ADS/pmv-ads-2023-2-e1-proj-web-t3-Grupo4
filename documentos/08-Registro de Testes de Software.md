@@ -45,7 +45,7 @@ Cristian fez uma breve observação acerca do título da funcionalidade "cadastr
 | Responsável pela execução do caso de Teste | Germanio Ludiene Diniz Correa |
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/144963215/c96c5087-84a5-4e0f-b28f-96c97d43ae0d)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/144963215/2acf9f8a-0807-4015-8876-74e3e49f47d5)
 
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
