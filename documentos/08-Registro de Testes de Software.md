@@ -48,11 +48,13 @@ Cristian fez uma breve observação acerca do título da funcionalidade "cadastr
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/144963215/2acf9f8a-0807-4015-8876-74e3e49f47d5)
 
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
+|Caso de Teste    | CT-X - Cadastro de Escalas |
 |:---|:---|
-| Resultados obtidos | Descrever resultados do teste  |
+| Resultados obtidos | Como podemos ver na imagem abaixo o teste foi um sucesso, o usuário coloca tudo que é pedido para ele, e não apresenta nehum erro ou impedimento. |
 | Responsável pela execução do caso de Teste | Germanio Laudiene Diniz Correa |
 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/assets/144963215/6b8dc7cd-fdae-4f7f-ae26-1d9cd0b20c80)
 
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
