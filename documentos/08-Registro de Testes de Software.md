@@ -39,12 +39,16 @@ Cristian fez uma breve observação acerca do título da funcionalidade "cadastr
 
 
 
+|Caso de Teste    | CT-X - Título Caso de Teste |
+|:---|:---|
+| Resultados obtidos | Descrever resultados do teste  |
+| Responsável pela execução do caso de Teste | Germanio Ludiene Diniz Correa |
 
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
 | Resultados obtidos | Descrever resultados do teste  |
-| Responsável pela execução do caso de Teste | Nome do integrante da equipe |
+| Responsável pela execução do caso de Teste | Germanio Laudiene Diniz Correa |
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
