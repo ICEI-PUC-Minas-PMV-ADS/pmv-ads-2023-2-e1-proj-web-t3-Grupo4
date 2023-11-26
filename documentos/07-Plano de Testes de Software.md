@@ -66,13 +66,21 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste |José Henrique da Costa Resende |
 
 
-|Caso de Teste    | CT-X -Titulo Caso de Teste  |
+|Caso de Teste    | CT- Calendario |
 |:---|:---|
-| Requisitos Associados | RF-X |
-| Objetivo do Teste |Descrição do objetivo do teste |
-| Passos |indicar passos para a execução do teste |
-| Critérios de êxito | indicar os criterios de êxito  |
-| Responsável pela elaborar do caso de Teste |Nome do integrante da equipe |
+| Requisitos Associados | Calendario  |
+| Objetivo do Teste |O sistema deve permitir que o usuario possa visualizar os dias e horarios em escala referente aos plantões, há possibilidades de escolher o mes de forma mais objetiva.|
+| Passos |Usuario deve clicar na opção de "Escola um mes", colocar o mes e apos isso o sistema deve retornar com o mes selecionado pelo usuario |
+| Critérios de êxito | O Sistema deve retornar com o mes selecionado pelo usuario.  |
+| Responsável pela elaborar do caso de Teste |Lidia Viana Goulart de Almeida |
+
+|Caso de Teste    | CT- Pesquisa de Dias   |
+|:---|:---|
+| Requisitos Associados | Pesquisa de Dias |
+| Objetivo do Teste |Usuario tem a possibilidade de escolher a quantidade de dias que deseja visualizar podendo retornar em ate 5 dias do mes desejado |
+| Passos |Clicar na opçao abrir calendario, solicitar o mes desejado apos isso indicar os dias que deseja, para que seja informado |
+| Critérios de êxito |Ao clicar no calendario o sistema devera retornar com exito, mostrando o mes solicitado e a quantidade de dias que o usuario solicitou.  |
+| Responsável pela elaborar do caso de Teste |Lidia Viana Goulart de Almeida |
 
 
 > **Links Úteis**:
