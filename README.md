@@ -15,7 +15,7 @@ Uma ferramenta simples, em web front-end, de fácil manuseio para que um funcion
 * José Henrique da Costa Resende
 * Kelveng Carlisson Petuba Magalhães
 * Lidia Viana Goulart De Almeida
-*Phelipe Rodrigues Gomes
+* Phelipe Rodrigues Gomes
 
 ## Orientador
 
