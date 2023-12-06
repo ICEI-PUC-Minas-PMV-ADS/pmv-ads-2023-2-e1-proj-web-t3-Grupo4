@@ -6,7 +6,7 @@
 
 `2023/2 - Turma 03`
 
-Uma ferramenta simples, em web front-end, de fácil manuseio para que um funcionário que trabalhe em escalas alternativas possa saber, de forma clara e objetiva, quais serão os seus dias trabalhados e os seus dias de folga, podendo pesquisar um dia ou um período específico, ou vendo a sua escala de um modo geral. Ele insere uma data, ou um período de datas e o programa retorna com a resposta, se nos dias consultados trabalhará ou se estará de folga..
+Uma ferramenta simples, em web front-end, de fácil manuseio para que um funcionário que trabalhe em escalas alternativas possa saber, de forma clara e objetiva, quais serão os seus dias trabalhados e os seus dias de folga, podendo pesquisar um dia ou um período específico, ou vendo a sua escala de um modo geral. Ele insere uma data, ou um período de datas e o programa retorna com a resposta, se nos dias consultados trabalhará ou se estará de folga.
 
 ## Integrantes
 
