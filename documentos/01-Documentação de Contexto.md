@@ -2,10 +2,15 @@
 
 Se procurarmos no dicionário a definição da palavra “emprego”, encontra-se:
 Ocupação remunerada e determinada a que alguém se dedica. (PRIBERAM, 2008-2023)
+
 Assim, emprego é uma relação entre trabalhador e empregado, em que o trabalhador vende a sua mão de obra (física/mental) por uma remuneração pecuniária. O quanto de mão de obra a ser vendido será de acordo com o contrato estabelecido, podendo ser por metas, horas de produção etc. 
-Essa forma de relacionamento da sociedade possui a suas origens em meados do século XVIII, oriundo de um acontecimento que transformaria para sempre o ritmo da sociedade e as formas com que ela se relaciona. A Revolução Industrial, através de grandes avanços tecnológicos, permitiu o surgimento da indústria, alterando o modo de produção manufatureiro (produção artesanal simples) para a maquinofatura (produção complexa por máquinas), acarretando a expansão de processos produtivos. 
+
+Essa forma de relacionamento da sociedade possui a suas origens em meados do século XVIII, oriundo de um acontecimento que transformaria para sempre o ritmo da sociedade e as formas com que ela se relaciona. A Revolução Industrial, através de grandes avanços tecnológicos, permitiu o surgimento da indústria, alterando o modo de produção manufatureiro (produção artesanal simples) para a maquinofatura (produção complexa por máquinas), acarretando a expansão de processos produtivos.
+
 Esse processo se dá até hoje, ao passo que quanto mais a ciência e a tecnologia avançam, mais a indústria e os serviços se otimizam, novas ocupações e necessidades surgem, e novas relações de trabalho aparecem, acarretando até mesmo em sua flexibilização, como em questão de local (teletrabalho), horários e entregas.
+
 No contexto social, emprego se tornou um importante componente de vida de muitas pessoas. Para muitos, é através da sua venda de mão-de-obra que se consegue recursos para suprir as suas necessidades e os seus desejos. Por muitas vezes, ele dita o ritmo de vida de uma pessoa.
+
 No Brasil, ainda é extenso o número de pessoas que possuem o seu contrato de trabalho baseado em jornadas de horas.
 O IBGE (Instituto Brasileiro de Geografia e Estatística) realizou entre 2014 e 2015 sua habitual pesquisa por amostra de domicílios, e um dos componentes pesquisados foi a relação pessoa-horas trabalhadas/semana, procurando saber quantas pessoas trabalham por jornadas de trabalho e quais as jornadas que elas foram contratadas nesse período.
 
