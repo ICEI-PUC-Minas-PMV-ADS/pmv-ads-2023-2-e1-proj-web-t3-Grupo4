@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="main-container">
+        <div class="header">
+            <div class="header-sub-1">
+                <div class="header-sub-2">
+                    <div class="logo">LOGO</div>
+                    <div class="header-info-user">
+                        <div class="user-info">
+                            <div class="user">@usuário</div>
+                            <div class="exit"><a href="telalogin.html">SAIR</a></div>
+                        </div>
+                        <img loading="lazy"
+                            src="https://cdn.builder.io/api/v1/image/assets/TEMP/25fa3801-1328-49e0-96aa-44a956aff1df?"
+                            class="img" />
+                    </div>
+                </div>
+            </div>
+            <div class="div-9">PESQUISAR DIA(S)</div>
+        </div>
+        <div class="div-10">
+            <div class="div-11">
+                <div class="div-12">escolha até 5 dias no calendário:</div>
+                <button class="button">Abrir Calendário</button>
+            </div>
+            <button class="button-no-border">PESQUISAR</button>
+
+            <div class="schedules">
+                <div class="schedule-item-yellow">
+                    <div class="schedule-number-black">2</div>
+                    <div class="schedule-text-black">folga</div>
+                </div>
+                <div class="schedule-item-grey">
+                    <div class="schedule-number-white">1</div>
+                    <div class="schedule-text-white">07h - 19h</div>
+                </div>
+                <div class="schedule-item-yellow">
+                    <div class="div-22">
+                        <div class="schedule-number-black">2</div>
+                        <div class="schedule-number-black">2</div>
+                    </div>
+                    <div class="schedule-text-black">folga</div>
+                </div>
+                <div class="schedule-item-grey">
+                    <div class="schedule-number-white">1</div>
+                    <div class="schedule-text-white">07h - 19h</div>
+                </div>
+                <div class="schedule-item-yellow">
+                    <div class="schedule-number-black">2</div>
+                    <div class="schedule-text-black">folga</div>
+                </div>
+            </div>
+        </div>
+        <div class="div-33">
+            <a href="telaprincipal.html"><button class="div-34">VOLTAR</button></a>
+            <div class="div-35">
+                <div class="div-36">
+                    © CJI 2023 - grupo 4
+                    <br />
+                    todos os direitos reservados
+                </div>
+            </div>
+        </div>
+    </div>
+    <style>
+        .main-container {
+            background-color: #fff;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .header {
+            align-self: stretch;
+            display: flex;
+            width: 100%;
+            flex-direction: column;
+            padding: 0 20px;
+        }
+
+        @media (max-width: 991px) {
+            .header {
+                max-width: 100%;
+            }
+        }
+
+        .header-sub-1 {
+            background-color: #050450;
+            align-self: start;
+            display: flex;
+            width: 100%;
+            flex-direction: column;
+            padding: 49px 20px;
+        }
+
+        @media (max-width: 991px) {
+            .header-sub-1 {
+                max-width: 100%;
+            }
+        }
+
+        .header-sub-2 {
+            align-self: center;
+            display: flex;
+            width: 100%;
+            max-width: 1138px;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 14px;
+        }
+
+        @media (max-width: 991px) {
+            .header-sub-2 {
+                max-width: 100%;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+        }
+
+        .logo {
+            color: #fff;
+            margin: auto 0;
+            font: 400 48px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .logo {
+                font-size: 40px;
+            }
+        }
+
+        .user-info {
+            align-self: center;
+            display: flex;
+            flex-direction: column;
+            margin: auto 0;
+        }
+
+
+        .header-info-user {
+            align-self: center;
+            display: flex;
+            flex-direction: row;
+            margin: auto 0;
+            justify-content: first baseline;
+        }
+
+        .user {
+            color: #fff;
+            align-self: end;
+            text-wrap: nowrap;
+            font: 400 23px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .user {
+                text-wrap: initial;
+            }
+        }
+
+        .exit {
+            color:white;
+            align-self: end;
+            margin-top: 18px;
+            text-wrap: nowrap;
+            font: 900 23px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .exit {
+                margin-right: 1px;
+                text-wrap: initial;
+            }
+        }
+
+        .img {
+            aspect-ratio: 1.06;
+            object-fit: cover;
+            object-position: center;
+            width: 74px;
+            overflow: hidden;
+            border-radius: 50%;
+            align-self: stretch;
+            max-width: 100%;
+        }
+
+        .div-9 {
+            color: #000;
+            text-align: center;
+            align-self: start;
+            text-wrap: nowrap;
+            margin: 46px 0 0 203px;
+            font: 900 30px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .div-9 {
+                text-wrap: initial;
+                margin: 40px 0 0 10px;
+            }
+        }
+
+        .button {
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .div-10 {
+            align-self: center;
+            display: flex;
+            margin-top: 125px;
+            width: 828px;
+            max-width: 100%;
+            flex-direction: column;
+        }
+
+        @media (max-width: 991px) {
+            .div-10 {
+                margin-top: 40px;
+            }
+        }
+
+        .div-11 {
+            align-self: center;
+            display: flex;
+            margin-left: -28px;
+            width: 635px;
+            max-width: 100%;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 20px;
+            padding: 0 20px;
+        }
+
+        @media (max-width: 991px) {
+            .div-11 {
+                flex-wrap: wrap;
+            }
+        }
+
+        .div-12 {
+            color: #000;
+            text-align: center;
+            max-width: 417px;
+            align-self: center;
+            flex-grow: 1;
+            flex-basis: auto;
+            margin: auto 0;
+            font: 400 25px Inter, sans-serif;
+        }
+
+        .img-2 {
+            aspect-ratio: 3.67;
+            object-fit: cover;
+            object-position: center;
+            width: 220px;
+            fill: #e8e8e8;
+            stroke-width: 3px;
+            stroke: #000;
+            filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+            overflow: hidden;
+            align-self: stretch;
+            max-width: 100%;
+        }
+
+        .button-no-border {
+            justify-content: center;
+            color: #fffbfb;
+            text-align: center;
+            border-radius: 25px;
+            border-color: #069cf0;
+            background-color: #069cf0;
+            align-self: center;
+            margin-top: 41px;
+            width: 187px;
+            max-width: 100%;
+            padding: 24px 20px;
+            font: 900 18px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .div-13 {
+                margin-top: 40px;
+            }
+        }
+
+        .schedules {
+            align-self: stretch;
+            display: flex;
+            margin-top: 60px;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 7px;
+            padding: 0 20px;
+        }
+
+        @media (max-width: 991px) {
+            .schedules {
+                max-width: 100%;
+                flex-wrap: wrap;
+                justify-content: center;
+                margin-top: 40px;
+            }
+        }
+
+        .schedule-item-yellow {
+            border-radius: 25px;
+            background-color: #ffd700;
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding: 23px 20px;
+        }
+
+        .schedule-number-black {
+            color: #000;
+            text-align: center;
+            align-self: center;
+            text-wrap: nowrap;
+            font: 900 30px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .schedule-number-black {
+                text-wrap: initial;
+            }
+        }
+
+        .schedule-text-black {
+            color: #000;
+            text-align: center;
+            align-self: center;
+            margin-top: 24px;
+            text-wrap: nowrap;
+            font: 900 20px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .schedule-text-black {
+                text-wrap: initial;
+            }
+        }
+
+        .schedule-item-grey {
+            border-radius: 25px;
+            background-color: #4c4e4c;
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding: 25px 20px;
+        }
+
+        .schedule-number-white {
+            color: #fffefe;
+            text-align: center;
+            align-self: center;
+            text-wrap: nowrap;
+            font: 900 30px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .schedule-number-white {
+                text-wrap: initial;
+            }
+        }
+
+        .schedule-text-white {
+            color: #fff;
+            text-align: center;
+            align-self: center;
+            margin-top: 24px;
+            text-wrap: nowrap;
+            font: 900 20px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .schedule-text-white {
+                text-wrap: initial;
+            }
+        }
+
+        .div-21 {
+            border-radius: 25px;
+            background-color: #ffd700;
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding: 23px 20px;
+        }
+
+        .div-22 {
+            align-self: center;
+            display: flex;
+            width: 19px;
+            max-width: 100%;
+            align-items: flex-start;
+            gap: 0px;
+        }
+
+        .div-23 {
+            color: #fffefe;
+            text-align: center;
+            align-self: stretch;
+            font: 900 30px Inter, sans-serif;
+        }
+
+        .div-24 {
+            color: #fffefe;
+            text-align: center;
+            align-self: stretch;
+            text-wrap: nowrap;
+            font: 900 30px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .div-24 {
+                text-wrap: initial;
+            }
+        }
+
+        .div-25 {
+            color: #000;
+            text-align: center;
+            align-self: center;
+            margin-top: 24px;
+            text-wrap: nowrap;
+            font: 900 20px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .div-25 {
+                text-wrap: initial;
+            }
+        }
+
+        .div-26 {
+            border-radius: 25px;
+            background-color: #4c4e4c;
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding: 20px 20px 26px;
+        }
+
+        .div-27 {
+            color: #fffefe;
+            text-align: center;
+            align-self: center;
+            z-index: 1;
+            text-wrap: nowrap;
+            font: 900 30px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .div-27 {
+                text-wrap: initial;
+            }
+        }
+
+        .div-28 {
+            color: #fffefe;
+            text-align: center;
+            align-self: center;
+            text-wrap: nowrap;
+            font: 900 30px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .div-28 {
+                text-wrap: initial;
+            }
+        }
+
+        .div-29 {
+            color: #fff;
+            text-align: center;
+            align-self: center;
+            margin-top: 24px;
+            text-wrap: nowrap;
+            font: 900 20px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .div-29 {
+                text-wrap: initial;
+            }
+        }
+
+        .div-30 {
+            border-radius: 25px;
+            background-color: #ffd700;
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            padding: 23px 20px;
+        }
+
+        .div-31 {
+            color: #000;
+            text-align: center;
+            align-self: center;
+            text-wrap: nowrap;
+            font: 900 30px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .div-31 {
+                text-wrap: initial;
+            }
+        }
+
+        .div-32 {
+            color: #000;
+            text-align: center;
+            align-self: center;
+            margin-top: 24px;
+            text-wrap: nowrap;
+            font: 900 20px Inter, sans-serif;
+        }
+
+        @media (max-width: 991px) {
+            .div-32 {
+                text-wrap: initial;
+            }
+        }
+
+        .div-33 {
+            align-self: stretch;
+            display: flex;
+            margin-top: 108px;
+            width: 100%;
+            flex-direction: column;
+        }
+
+        @media (max-width: 991px) {
+            .div-33 {
+                max-width: 100%;
+                margin-top: 40px;
+            }
+        }
+
+        .div-34 {
+            color: white;
+            background-color: #069CF0;
+            border-radius: 10px;
+            border: 2px solid transparent;
+            width: 187px;
+            height: 61px;
+            font-family: 'Inter', sans-serif;
+            font-weight: bold;
+            margin-right: 20px;
+            margin-left: 1400px;
+            margin-bottom: 40px;
+            margin-top: 40px;
+        }
+
+        @media (max-width: 991px) {
+            .div-34 {
+                margin-right: 10px;
+            }
+        }
+
+        .div-35 {
+            background-color: #5d5d62;
+            align-self: end;
+            display: flex;
+            margin-top: 19px;
+            width: 100%;
+            flex-direction: column;
+            padding: 44px 20px 56px;
+        }
+
+        @media (max-width: 991px) {
+            .div-35 {
+                max-width: 100%;
+            }
+        }
+
+        .div-36 {
+            color: #fff;
+            text-align: center;
+            max-width: 269px;
+            align-self: center;
+            font: 400 20px Inter, sans-serif;
+        }
+    </style>
+
+</body>
+
+</html>
