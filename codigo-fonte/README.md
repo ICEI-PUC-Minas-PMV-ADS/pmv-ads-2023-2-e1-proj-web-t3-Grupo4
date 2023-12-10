@@ -15,4 +15,20 @@ O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um
 
 ### [0.1.0] - 29/10/2023
 #### Adicionado
-- Adicionado todos os primeiros arquivos do programa
+- Adicionado todos os primeiros arquivos do programa e a programação de funcionalidades
+
+### [0.2.0] - 26/11/2023
+#### Adicionado
+- Adicionado os testes de funcionalidades (testes de software) e seus registros.
+
+### [0.3.0] - 06/12/2023
+#### Atualização
+- Atualização da documentação de contexto.
+
+### [0.4.0] - 06/12/2023
+#### Atualização
+- Atualização do código do programa para simulação do protótipo.
+
+### [0.4.0] - 06/12/2023
+#### Atualização
+- Atualização dos arquivos do código-fonte no Github.
