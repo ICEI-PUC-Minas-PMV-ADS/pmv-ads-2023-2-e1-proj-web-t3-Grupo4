@@ -37,7 +37,7 @@ Uma ferramenta simples, em web front-end, de fácil manuseio para que um funcion
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+cji2023.netlify.app
 
 # Código-Fonte
 
