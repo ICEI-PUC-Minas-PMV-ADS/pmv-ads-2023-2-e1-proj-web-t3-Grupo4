@@ -31,4 +31,4 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4/a
 
 ## Hospedagem
 
-[Adicione o endereço eletrônico público onde o site encontra-se hospedado.]
+https://cji2023.netlify.app/
