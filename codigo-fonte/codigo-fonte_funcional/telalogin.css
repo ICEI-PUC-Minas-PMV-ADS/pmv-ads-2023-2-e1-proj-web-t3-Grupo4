@@ -1,0 +1,224 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+text-align: center;
+justify-items: center;
+text-justify: center;
+
+}
+header {
+background-color:#050450;
+height: 120px;
+margin-bottom: 50px;
+display: flex;
+justify-content: center;
+text-align: center;
+text-justify: center;
+justify-items: center;
+}
+
+.buttoncadastre {
+height: 70px;
+width: 356px;
+top: 782px;
+left: 1104px;
+font-family: "Inter" , sans-serif;
+font-size: 18px;
+font-weight: 900;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+border-radius: 25px;
+color: #000000;
+background-color:#069CF0;
+margin-bottom: 60px;
+justify-content: left;
+}
+
+h1 {
+font-family: "Inter" , sans-serif;
+font-weight: 900;
+line-height: 36px;
+letter-spacing: 0em;
+margin-bottom: 20px
+}
+
+body {
+font-family: "Inter" , sans-serif;
+background-color: #f5f5f5;
+margin: 0;
+padding: 0;
+text-align: center;
+justify-content: center;
+text-justify: center;
+justify-items: center;
+}
+
+.text{
+font-family: "Inter", sans-serif;
+font-size: 15px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+margin-bottom: 20px;
+}
+    
+.name{
+width: 70px;
+height: 20px;
+top: 20px;
+left: 20px;
+font-family: "Inter" , sans-serif;
+font-size: 15px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: center;
+color:#000000;
+}
+
+input[type=text]{
+width: 200px;
+height: 35px;
+top: 400px;
+left: 380px;
+border: 3px;
+color:#000000;
+color: #e8e8e8;
+border: 3px solid #000000;
+box-align: center;
+margin-bottom: 20px;
+text-justify: center;
+justify-items: center;
+}
+
+
+input[type=password]{
+width: 480px;
+height: 35px;
+top: 585px;
+left: 400px;
+border: 3px;
+color: #000000;
+border: 3px solid #000000;
+box-align: center;
+margin-bottom: 50px;
+line-height: 40px;
+justify-items: center;
+justify-content: center;
+    
+}
+
+.password{
+font-size: 15px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+font-family: "Inter" , sans-serif;
+color: #000000;
+}
+
+input[type="submit"] {
+width: 149px;
+height: 34px;
+top: 782px;
+left: 1104px;
+font-family: "Inter" , sans-serif;
+font-size: 18px;
+font-weight: 900;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+width: 187px;
+height: 61px;
+top: 769px;
+left: 1085px;
+border-radius: 25px;
+color: #000000;
+background-color:#069CF0;
+margin-bottom: 60px;
+justify-content: left;
+}
+
+.buttonvamos {
+width: 149px;
+height: 34px;
+top: 782px;
+left: 1104px;
+font-family: "Inter" , sans-serif;
+font-size: 18px;
+font-weight: 900;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+width: 187px;
+height: 61px;
+top: 769px;
+left: 1085px;
+border-radius: 25px;
+color: #000000;
+background-color:#069CF0;
+margin-bottom: 60px;
+justify-content: left;
+}
+
+input[type=email] {
+width: 485px;
+height: 35px;
+top: 493px;
+left: 502px;
+border: 3px;
+color: #e8e8e8;
+color: #000000;
+border: 3px solid #000000;
+margin-bottom: 20px;
+justify-items: center;
+text-justify: center;
+}
+
+.email {
+font-family: Inter , sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 30.26px;
+letter-spacing: 0em;
+text-align: center;
+text-justify: center;
+justify-items: center;
+
+}
+
+#senha::placeholder {
+width: 533px;
+height: 28px;
+top: 600px;
+left: 482px;
+font-family: "Inter";
+font-size: 11px;
+font-style: italic;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000;
+}
+
+footer{
+height: 70px;
+background-color: gray;
+display: flex;
+justify-content: center;
+align-items: center;   
+}
+.rodape{
+text-align: center;
+color: white;
+font-family: 'Inter', sans-serif;
+}
+
+.center{
+text-align: center;
+}

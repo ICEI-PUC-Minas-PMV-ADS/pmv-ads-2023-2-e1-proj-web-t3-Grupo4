@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Feriados</title>
+    <style>
+        .texto-lateral {
+            margin-right: auto; 
+            font-weight: bold;
+        }
+
+        .rodape {
+            height: 167px;
+            background-color: gray;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .bloco {
+            height: 167px;
+            background-color: #050450;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .logo {
+            color: white;
+            margin-left: 20px;
+            margin-right: 1200px;
+            font-size: 40px;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .login {
+            color: white;
+            font-family: 'Inter', sans-serif;
+        }
+        .usuario {
+            margin-right: 20px; /* Adiciona margem à direita para criar espaço entre "usuario" e "SAIR" */
+        }
+
+        .circulo {
+            width: 40px;
+            height: 40px;
+            background-color: gray;
+            border-radius: 50%; /* Torna o elemento circular */
+            margin-right: 10px;
+        }
+
+        .caixa-retangular {
+            width: 1000px;
+            height: 350px;
+            border: 2px solid black;
+            text-align: center;
+            background: transparent;
+            margin: auto;
+            justify-content: center;
+            align-items: center;
+            border-radius: 10px;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .cx-rt-menor {
+            width: 80px;
+            height: 70px;
+            border: 2px solid transparent;
+            text-align: center;
+            background: #FFD700;
+            margin: auto;
+            border-radius: 10px;
+            font-weight: bold;
+            margin-left: 200px;
+            font-family: 'Inter', sans-serif;
+            display: flex;
+            align-items: center; /* Alinhar verticalmente no centro */
+        }
+
+        .caixa-retangular hr {
+            border: none;
+            border-top: 1px solid black;
+            margin: 10px 120px; 
+            width: 80%; 
+            margin-top: 35px;
+        }
+
+        .btt {
+            color: white;
+            background-color: #069CF0;
+            border-radius: 10px;
+            border: 2px solid transparent;
+            width: 100px;
+            height: 35px;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .caixa-com-texto {
+            display: flex;
+            align-items: center;
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div class="bloco">
+        <div style="display: flex;">
+            <div class="logo">
+                <span>Logo</span>
+            </div>
+            <div class="login">
+                <span class="usuario">@usuario</span>
+                <br>
+                <a href="index.html"><span style="margin-left: 30px; font-weight: bold">SAIR</span></a>
+            </div>            
+            <div class="circulo"></div>
+        </div>
+    </div>
+
+    <h2 style="text-align: center;">Ver Feriados</h2>
+    <br>
+    <!-- Div retangular no centro -->
+    <div class="caixa-retangular">
+        <hr>        
+        <div class="caixa-com-texto">
+            <div class="cx-rt-menor">
+                25 Dezembro
+            </div>
+            <div class="texto-lateral">Natal</div>
+        </div>              
+        <hr>
+        <div  class="caixa-com-texto">
+            <div class="cx-rt-menor" style="background-color: #4C4E4C !important;color: white;">
+                <span>1 Janeiro</span>      
+            </div>
+            <div class="texto-lateral">Confraternização Universal</div>
+        </div>
+        <hr>
+        <p><i class="fa fa-arrow-down"></i></p>
+
+    </div>
+
+    <div style="margin: 20px; text-align: right; margin-right: 150px;">
+        <a href="telaprincipal.html"><button class="btt">Voltar</button></a>
+    </div>
+</body>
+<footer class="rodape">
+    <div style="text-align: center; color: white;">    
+        <span>© CJI 2023 - grupo 4</span>
+        <br>
+        <span>todos os direitos reservados</span>
+    </div>
+</footer>
+</html>

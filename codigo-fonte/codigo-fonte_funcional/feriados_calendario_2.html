@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Feriados</title>
+    <style>
+        .texto-lateral {
+            margin-right: auto; 
+            font-weight: bold;
+        }
+
+        .rodape {
+            height: 167px;
+            background-color: gray;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .bloco {
+            height: 167px;
+            background-color: #050450;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .logo {
+            color: white;
+            margin-left: 20px;
+            margin-right: 1200px;
+            font-size: 40px;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .login {
+            color: white;
+            font-family: 'Inter', sans-serif;
+        }
+        .usuario {
+            margin-right: 20px; /* Adiciona margem à direita para criar espaço entre "usuario" e "SAIR" */
+        }
+
+        .circulo {
+            width: 40px;
+            height: 40px;
+            background-color: gray;
+            border-radius: 50%; /* Torna o elemento circular */
+            margin-right: 10px;
+        }
+
+        .caixa-retangular {
+            width: 1000px;
+            height: 350px;
+            border: 2px solid black;
+            text-align: center;
+            background: transparent;
+            margin: auto;
+            justify-content: center;
+            align-items: center;
+            border-radius: 10px;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .cx-rt-menor-y {
+            width: 80px;
+            height: 70px;
+            border: 2px solid transparent;
+            text-align: center;
+            background: #FFD700;
+            margin: auto;
+            border-radius: 10px;
+            font-weight: bold;
+            font-family: 'Inter', sans-serif;
+            display: flex;
+            align-items: center; /* Alinhar verticalmente no centro */
+        }
+
+        .cx-rt-menor-g {
+            width: 80px;
+            height: 70px;
+            border: 2px solid transparent;
+            text-align: center;
+            background-color: #4C4E4C;
+            color: white;
+            margin: auto;
+            border-radius: 10px;
+            font-weight: bold;
+            font-family: 'Inter', sans-serif;
+            display: flex;
+            align-items: center; /* Alinhar verticalmente no centro */
+        }
+
+        .caixa-retangular hr {
+            border: none;
+            border-top: 1px solid black;
+            margin: 10px 120px; 
+            width: 80%; 
+            margin-top: 35px;
+        }
+
+        .btt {
+            color: white;
+            background-color: #069CF0;
+            border-radius: 10px;
+            border: 2px solid transparent;
+            width: 100px;
+            height: 35px;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .caixa-com-texto {
+            display: flex;
+            align-items: center;
+            font-family: 'Inter', sans-serif;
+        }
+        .table-container {
+            text-align: center; /* Centraliza horizontalmente */
+            margin: 0 auto; /* Centraliza horizontalmente */
+            width: 800px; /* Define a largura desejada do contêiner */
+        }
+        
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 10px;
+        }
+        
+        .centered-text {
+            text-align: center;
+            margin: 0; /* Remova a margem superior que os cabeçalhos H2 têm por padrão */
+            width: 700px;
+            font-weight: bold;
+        }
+        
+        .right-aligned-text {
+            text-align: center;
+            width: 800px;
+            display: flex;
+            height: 30px;
+        }
+        
+        .table-container {
+            text-align: center;
+            margin: 0 auto;
+            width: 800px;
+        }
+        
+    </style>
+</head>
+<body>  
+    <div class="bloco">
+        <div style="display: flex;">
+            <div class="logo">
+                <span>Logo</span>
+            </div>
+            <div class="login">
+                <span class="usuario">@usuario</span>
+                <br>
+                <a href="index.html"><span style="margin-left: 30px; font-weight: bold">SAIR</span></a>
+            </div>
+            <div class="circulo"></div>
+        </div>
+    </div>
+    <div class="header-container">
+        <h2 class="centered-text">CALENDÁRIO</h2>
+        <div class="right-aligned-text">
+        <p>Escolha um Mês:</p>
+        <select>
+            <option>Escolha o mês</option>
+            <option value="01">Janeiro</option>
+            <option value="02">Fevereiro</option>
+            <option value="03">Março</option>
+            <option value="04">Abril</option>
+            <option value="05">Maio</option>
+            <option value="06">Junho</option>
+            <option selected value="07">Julho</option>
+            <option value="08">Agosto</option>
+            <option value="09">Setembro</option>
+            <option value="10">Outubro</option>
+            <option value="11">Novembro</option>
+            <option value="12">Dezembro</option>
+        </select>
+    </div>
+    </div>
+    <br>
+    <div class="table-container">
+        <table>
+            <tr>
+                <th>Domingo</th>
+                <th>Segunda</th>
+                <th>Terça</th>
+                <th>Quarta</th>
+                <th>Quinta</th>
+                <th>Sexta</th>
+                <th>Sábado</th>
+            </tr>
+            <tr>
+                <td>
+                    <div  class="caixa-com-texto">
+                        <div class="cx-rt-menor-g"><span>1 <br>07h - 19h</span>
+                        </div>
+                    </div>
+                </td>
+                <td>
+                    <div class="caixa-com-texto">
+                        <div class="cx-rt-menor-y"><span>folga</span></div>
+                    </div>
+                </td>
+                <td>
+                    <div  class="caixa-com-texto">
+                        <div class="cx-rt-menor-g"><span>1 <br>07h - 19h</span>
+                        </div>
+                    </div>
+                </td>
+                <td>
+                    <div class="caixa-com-texto">
+                        <div class="cx-rt-menor-y"><span>folga</span></div>
+                    </div>
+                </td>
+                <td>
+                    <div  class="caixa-com-texto">
+                        <div class="cx-rt-menor-g"><span>1 <br>07h - 19h</span>
+                        </div>
+                    </div>
+                </td>
+                <td>
+                    <div class="caixa-com-texto">
+                        <div class="cx-rt-menor-y"><span>folga</span></div>
+                    </div>
+                </td>
+                <td>
+                    <div  class="caixa-com-texto">
+                        <div class="cx-rt-menor-g"><span>1 <br>07h - 19h</span>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <td>
+                <div class="caixa-com-texto">
+                    <div class="cx-rt-menor-y"><span>folga</span></div>
+                </div>
+            </td>
+            <td>
+                <div  class="caixa-com-texto">
+                    <div class="cx-rt-menor-g"><span>1 <br>07h - 19h</span>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="caixa-com-texto">
+                    <div class="cx-rt-menor-y"><span>folga</span></div>
+                </div>
+            </td>
+            <td>
+                <div  class="caixa-com-texto">
+                    <div class="cx-rt-menor-g"><span>1 <br>07h - 19h</span>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="caixa-com-texto">
+                    <div class="cx-rt-menor-y"><span>folga</span></div>
+                </div>
+            </td>
+            <td>
+                <div  class="caixa-com-texto">
+                    <div class="cx-rt-menor-g"><span>1 <br>07h - 19h</span>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="caixa-com-texto">
+                    <div class="cx-rt-menor-y"><span>folga</span></div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div  class="caixa-com-texto">
+                    <div class="cx-rt-menor-g"><span>1 <br>07h - 19h</span>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="caixa-com-texto">
+                    <div class="cx-rt-menor-y"><span>folga</span></div>
+                </div>
+            </td>
+            <td>
+                <div  class="caixa-com-texto">
+                    <div class="cx-rt-menor-g"><span>1 <br>07h - 19h</span>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="caixa-com-texto">
+                    <div class="cx-rt-menor-y"><span>folga</span></div>
+                </div>
+            </td>
+            <td>
+                <div  class="caixa-com-texto">
+                    <div class="cx-rt-menor-g"><span>1 <br>07h - 19h</span>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="caixa-com-texto">
+                    <div class="cx-rt-menor-y"><span>folga</span></div>
+                </div>
+            </td>
+            <td>
+                <div  class="caixa-com-texto">
+                    <div class="cx-rt-menor-g"><span>1 <br>07h - 19h</span>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <td>
+            <div class="caixa-com-texto">
+                <div class="cx-rt-menor-y"><span>folga</span></div>
+            </div>
+        </td>
+        <td>
+            <div  class="caixa-com-texto">
+                <div class="cx-rt-menor-g"><span>1 <br>07h - 19h</span>
+                </div>
+            </div>
+        </td>
+        <td>
+            <div class="caixa-com-texto">
+                <div class="cx-rt-menor-y"><span>folga</span></div>
+            </div>
+        </td>
+        <td>
+            <div  class="caixa-com-texto">
+                <div class="cx-rt-menor-g"><span>1 <br>07h - 19h</span>
+                </div>
+            </div>
+        </td>
+        <td>
+            <div class="caixa-com-texto">
+                <div class="cx-rt-menor-y"><span>folga</span></div>
+            </div>
+        </td>
+        <td>
+            <div  class="caixa-com-texto">
+                <div class="cx-rt-menor-g"><span>1 <br>07h - 19h</span>
+                </div>
+            </div>
+        </td>
+        <td>
+            <div class="caixa-com-texto">
+                <div class="cx-rt-menor-y"><span>folga</span></div>
+            </div>
+        </td>
+    </tr>
+    </table>
+    </div>
+
+    <div style="margin: 20px; text-align: right; margin-right: 150px;">
+        <a href="telaprincipal.html"><button class="btt">Voltar</button></a>
+    </div>
+</body>
+<footer class="rodape">
+    <div style="text-align: center; color: white;">
+        <span>© CJI 2023 - grupo 4</span>
+        <br>
+        <span>todos os direitos reservados</span>
+    </div>
+</footer>
+</html>

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alterar Escala</title>
+    <style>
+        .login {
+            text-align: center;
+        }
+
+        .usuario {
+            font-size: 18px;
+            text-decoration: none;
+            color: #0074d9;
+        }
+
+        .sair {
+            font-size: 14px;
+            text-decoration: none;
+            color: #2f00ff;
+        }
+
+        .escala-container {
+            text-align: center;
+        }
+
+        .form-container {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+
+        .form-label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+
+        .buttonvoltar {
+            color: white;
+            background-color: #069CF0;
+            border-radius: 10px;
+            border: 2px solid transparent;
+            width: 187px;
+            height: 61px;
+            font-family: 'Inter', sans-serif;
+            font-weight: bold;
+            margin-right: 20px;
+            margin-left: 1400px;
+            margin-bottom: 40px;
+            margin-top: 40px;
+}
+
+        .form-submit {
+            background-color: #0074d9;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+
+        .form-submit:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="login">
+        <a class="usuario" href="telaprincipal.html">@usuário</a>
+        <br>
+        <a class="sair" href="index.html">SAIR</a>
+    </div>
+
+    <div class="escala-container">
+        <h1>ALTERAR ESCALA</h1>
+        <div class="form-container">
+            <form action="processar_escala.php" method="post">
+                <label class="form-label" for="nome_escala">Um nome para sua escala:</label>
+                <input class="form-input" type="text" name="nome_escala" id="nome_escala" required><br>
+                
+                <label class="form-label" for="tipo_escala">Qual a sua escala:</label>
+                <input class="form-input" type="text" name="tipo_escala" id="tipo_escala" required><br>
+
+                <label class="form-label" for="dia_inicio">Escolha um dia para iniciar:</label>
+                <input class="form-input" type="date" name="dia_inicio" id="dia_inicio" required><br>
+
+                <label class="form-label" for="hora_inicio">Escolha um horário para iniciar:</label>
+                <input class="form-input" type="time" name="hora_inicio" id="hora_inicio" required><br>
+
+                <input class="form-submit" type="submit" value="CONFIRMAR">
+            </form>
+        </div>
+    </div>
+
+    <div class="voltar-container">
+        <a href="config.html"><button class="buttonvoltar">VOLTAR</button></a>
+    </div>
+
+    <script>
+        function voltar() {
+            window.history.back();
+        }
+    </script>
+</body>
+<footer>
+    <span class="rodape">© CJI 2023 - grupo 4 <br> todos os direitos reservados</span>
+</footer>
+<link rel="stylesheet" type="text/css" href="Escala.css">
+</html>
