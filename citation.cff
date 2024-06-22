@@ -1,0 +1,26 @@
+message: Please cite this software using these metadata.
+title: CJI - Controle de Escala Intermitente
+authors:
+  - family-names: Laudiene Diniz Corrêa
+    given-names: Germanio
+  - family-names: da Costa Resende
+    given-names: José Henrique 
+  - family-names: Carlisson Petuba Magalhães
+    given-names: Kelveng
+  - family-names:Viana Goulart De Almeida 
+    given-names: Lidia 
+  - family-names:Viana Goulart de Almeida
+    given-names: Phelipe 
+ - family-names: Rodrigues Gomes
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names:Natalia  
+    given-names: Valentim
+keywords:
+  - Escala
+  - Folga 
+  - calendario
+
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-Grupo4
+version: Version 1.0.0
+date-released: 2023-12-10
